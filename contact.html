@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carbon Offsetting Flights</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<header>
+  <h1>Carbon Offsetting Flights</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Guide</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+  <section>
+    <p>This site was put together by me, <a href="https://daniellong.co">Daniel Long</a>. I hope you find it useful and can ease some of your carbon guilt in a substantive way too.</p>
+  </section>
+  <section class="contact-form">
+    <h2>Please get in touch!</h2>
+    <p>If you would like to get in touch, whether that's to offer thoughts, recomendations or anything else please reach out via the form below.</p>
+    <form action="https://api.web3forms.com/submit" method="POST">
+      <input type="hidden" name="access_key" value="94be928a-3fe7-4e72-b60e-2b420e7097b3">
+
+      <label for="name">Your Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Your Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" rows="4" placeholder="Please describe the model and add a link to the relevant publication"></textarea>
+
+      <label for="captcha"></label>
+      <div class="h-captcha" data-captcha="true"></div>
+
+      <input type="submit" value="Submit">
+    </form>
+  </section>
+</main>
+<script src="https://web3forms.com/client/script.js" async defer></script>
+</body>
+</html>
+<body>
