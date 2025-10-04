@@ -1,0 +1,464 @@
+{
+  "AIT": {
+    "name": "Aitutaki Airport",
+    "city": "Aitutaki",
+    "country": "CK",
+    "lat": -18.8309001923,
+    "lon": -159.7640075684
+  },
+  "AIU": {
+    "name": "Enua Airport",
+    "city": "Atiu Island",
+    "country": "CK",
+    "lat": -19.9678001404,
+    "lon": -158.1190032959
+  },
+  "MGS": {
+    "name": "Mangaia Island Airport",
+    "city": "Mangaia Island",
+    "country": "CK",
+    "lat": -21.895986557,
+    "lon": -157.9066619873
+  },
+  "MHX": {
+    "name": "Manihiki Island Airport",
+    "city": "Manihiki Island",
+    "country": "CK",
+    "lat": -10.3767004013,
+    "lon": -161.0019989014
+  },
+  "MUK": {
+    "name": "Mauke Airport",
+    "city": "Mauke Island",
+    "country": "CK",
+    "lat": -20.136100769,
+    "lon": -157.3450012207
+  },
+  "MOI": {
+    "name": "Mitiaro Island Airport",
+    "city": "Mitiaro Island",
+    "country": "CK",
+    "lat": -19.8425006866,
+    "lon": -157.7030029297
+  },
+  "PYE": {
+    "name": "Tongareva Airport",
+    "city": "Penrhyn Island",
+    "country": "CK",
+    "lat": -9.0143699646,
+    "lon": -158.032409668
+  },
+  "RAR": {
+    "name": "Rarotonga International Airport",
+    "city": "Avarua",
+    "country": "CK",
+    "lat": -21.2026996613,
+    "lon": -159.8059997559
+  },
+  "IUE": {
+    "name": "Niue International Airport",
+    "city": "Alofi",
+    "country": "NU",
+    "lat": -19.0790309906,
+    "lon": -169.9255981445
+  },
+  "FUT": {
+    "name": "Pointe Vele Airport",
+    "city": "Futuna Island",
+    "country": "WF",
+    "lat": -14.3114004135,
+    "lon": -178.065994263
+  },
+  "WLS": {
+    "name": "Hihifo Airport",
+    "city": "Wallis Island",
+    "country": "WF",
+    "lat": -13.2383003235,
+    "lon": -176.199005127
+  },
+  "OFU": {
+    "name": "Ofu Village Airport",
+    "city": "Ofu Village",
+    "country": "AS",
+    "lat": -14.1843996048,
+    "lon": -169.6699981689
+  },
+  "FTI": {
+    "name": "Fitiuta Airport",
+    "city": "Fitiuta Village",
+    "country": "AS",
+    "lat": -14.2172002792,
+    "lon": -169.425003052
+  },
+  "PPG": {
+    "name": "Pago Pago International Airport",
+    "city": "Pago Pago",
+    "country": "AS",
+    "lat": -14.3310003281,
+    "lon": -170.710006714
+  },
+  "PPT": {
+    "name": "Faa'a International Airport",
+    "city": "Papeete",
+    "country": "PF",
+    "lat": -17.5536994934,
+    "lon": -149.606994629
+  },
+  "RUR": {
+    "name": "Rurutu Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -22.4340991974,
+    "lon": -151.3609924316
+  },
+  "TUB": {
+    "name": "Tubuai Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -23.3654003143,
+    "lon": -149.5240020752
+  },
+  "RVV": {
+    "name": "Raivavae Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -23.8852005005,
+    "lon": -147.662002563
+  },
+  "AAA": {
+    "name": "Anaa Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -17.3526000977,
+    "lon": -145.5099945068
+  },
+  "FGU": {
+    "name": "Fangatau Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -15.819899559,
+    "lon": -140.8869934082
+  },
+  "TIH": {
+    "name": "Tikehau Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -15.119600296,
+    "lon": -148.2310028076
+  },
+  "APK": {
+    "name": "Apataki Airport",
+    "city": "Apataki",
+    "country": "PF",
+    "lat": -15.5735998154,
+    "lon": -146.4149932861
+  },
+  "REA": {
+    "name": "Reao Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -18.4659004211,
+    "lon": -136.4400024414
+  },
+  "FAV": {
+    "name": "Fakarava Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -16.0541000366,
+    "lon": -145.6569976807
+  },
+  "HHZ": {
+    "name": "Hikueru Atoll Airport",
+    "city": "Hikueru Atoll",
+    "country": "PF",
+    "lat": -17.5447006226,
+    "lon": -142.6139984131
+  },
+  "XMH": {
+    "name": "Manihi Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -14.4368000031,
+    "lon": -146.0700073242
+  },
+  "GMR": {
+    "name": "Totegegie Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -23.0799007416,
+    "lon": -134.8899993896
+  },
+  "KKR": {
+    "name": "Kaukura Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -15.6632995605,
+    "lon": -146.8849945068
+  },
+  "MKP": {
+    "name": "Makemo Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -16.5839004517,
+    "lon": -143.6580047607
+  },
+  "NAU": {
+    "name": "Napuka Island Airport",
+    "city": "Napuka Island",
+    "country": "PF",
+    "lat": -14.1767997742,
+    "lon": -141.266998291
+  },
+  "TKV": {
+    "name": "Tatakoto Airport",
+    "city": "Tatakoto",
+    "country": "PF",
+    "lat": -17.3553009033,
+    "lon": -138.4450073242
+  },
+  "PKP": {
+    "name": "Puka Puka Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -14.8094997406,
+    "lon": -138.81300354
+  },
+  "PUK": {
+    "name": "Pukarua Airport",
+    "city": "Pukarua",
+    "country": "PF",
+    "lat": -18.2956008911,
+    "lon": -137.016998291
+  },
+  "TKP": {
+    "name": "Takapoto Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -14.7095003128,
+    "lon": -145.2460021973
+  },
+  "AXR": {
+    "name": "Arutua Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -15.2482995987,
+    "lon": -146.6170043945
+  },
+  "MVT": {
+    "name": "Mataiva Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -14.8681001663,
+    "lon": -148.7169952393
+  },
+  "NUK": {
+    "name": "Nukutavake Airport",
+    "city": "Nukutavake",
+    "country": "PF",
+    "lat": -19.2849998474,
+    "lon": -138.7720031738
+  },
+  "ZTA": {
+    "name": "Tureia Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -20.7896995544,
+    "lon": -138.5700073242
+  },
+  "AHE": {
+    "name": "Ahe Airport",
+    "city": "Ahe Atoll",
+    "country": "PF",
+    "lat": -14.4280996323,
+    "lon": -146.2570037842
+  },
+  "KHZ": {
+    "name": "Kauehi Airport",
+    "city": "Kauehi",
+    "country": "PF",
+    "lat": -15.7807998657,
+    "lon": -145.1239929199
+  },
+  "FAC": {
+    "name": "Faaite Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -16.6867008209,
+    "lon": -145.328994751
+  },
+  "FHZ": {
+    "name": "Fakahina Airport",
+    "city": "Fakahina",
+    "country": "PF",
+    "lat": -15.9921998978,
+    "lon": -140.1649932861
+  },
+  "RKA": {
+    "name": "Aratika Nord Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -15.4853000641,
+    "lon": -145.470001221
+  },
+  "TJN": {
+    "name": "Takume Airport",
+    "city": "Takume",
+    "country": "PF",
+    "lat": -15.8547000885,
+    "lon": -142.2680053711
+  },
+  "RRR": {
+    "name": "Raroia Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -16.045,
+    "lon": -142.476944
+  },
+  "TKX": {
+    "name": "Takaroa Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -14.4558000565,
+    "lon": -145.0249938965
+  },
+  "KXU": {
+    "name": "Katiu Airport",
+    "city": "Katiu",
+    "country": "PF",
+    "lat": -16.3393993378,
+    "lon": -144.4029998779
+  },
+  "NHV": {
+    "name": "Nuku Hiva Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -8.7955999374,
+    "lon": -140.2290039063
+  },
+  "AUQ": {
+    "name": "Hiva Oa-Atuona Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -9.7687902451,
+    "lon": -139.0110015869
+  },
+  "UAP": {
+    "name": "Ua Pou Airport",
+    "city": "Ua Pou",
+    "country": "PF",
+    "lat": -9.3516702652,
+    "lon": -140.0780029297
+  },
+  "UAH": {
+    "name": "Ua Huka Airport",
+    "city": "Ua Huka",
+    "country": "PF",
+    "lat": -8.9361095428,
+    "lon": -139.5520019531
+  },
+  "BOB": {
+    "name": "Bora Bora Airport",
+    "city": "Motu Mute",
+    "country": "PF",
+    "lat": -16.4444007874,
+    "lon": -151.7510070801
+  },
+  "TTI": {
+    "name": "Tetiaroa Airport",
+    "city": "Tetiaroa",
+    "country": "PF",
+    "lat": -17.013299942,
+    "lon": -149.5870056152
+  },
+  "RGI": {
+    "name": "Rangiroa Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -14.9542999268,
+    "lon": -147.6609954834
+  },
+  "HUH": {
+    "name": "Huahine-Fare Airport",
+    "city": "Fare",
+    "country": "PF",
+    "lat": -16.6872005463,
+    "lon": -151.0220031738
+  },
+  "MOZ": {
+    "name": "Moorea Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -17.4899997711,
+    "lon": -149.7619934082
+  },
+  "HOI": {
+    "name": "Hao Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -18.0748004913,
+    "lon": -140.9459991455
+  },
+  "MAU": {
+    "name": "Maupiti Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -16.4265003204,
+    "lon": -152.2440032959
+  },
+  "RFP": {
+    "name": "Raiatea Airport",
+    "city": "Uturoa",
+    "country": "PF",
+    "lat": -16.7229003906,
+    "lon": -151.466003418
+  },
+  "UOA": {
+    "name": "Mururoa Atoll Airport",
+    "city": "Mururoa Atoll",
+    "country": "PF",
+    "lat": -21.8670005798,
+    "lon": -138.9170074463
+  },
+  "VHZ": {
+    "name": "Vahitahi Airport",
+    "city": "Vahitahi",
+    "country": "PF",
+    "lat": -18.7800006866,
+    "lon": -138.8529968262
+  },
+  "ROP": {
+    "name": "Rota International Airport",
+    "city": "Rota Island",
+    "country": "MP",
+    "lat": 14.1743001938,
+    "lon": 145.2429962158
+  },
+  "SPN": {
+    "name": "Francisco C. Ada Saipan International Airport",
+    "city": "Saipan Island",
+    "country": "MP",
+    "lat": 15.1190004349,
+    "lon": 145.7290039063
+  },
+  "UAM": {
+    "name": "Andersen Air Force Base",
+    "city": "Andersen",
+    "country": "GU",
+    "lat": 13.5839996338,
+    "lon": 144.9299926758
+  },
+  "GUM": {
+    "name": "Antonio B. Won Pat International Airport",
+    "city": "Hagatna",
+    "country": "GU",
+    "lat": 13.4834003448,
+    "lon": 144.796005249
+  },
+  "TIQ": {
+    "name": "Tinian International Airport",
+    "city": "Tinian Island",
+    "country": "MP",
+    "lat": 14.9991998672,
+    "lon": 145.6190032959
+  }
+}

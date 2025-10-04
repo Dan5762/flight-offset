@@ -90,8 +90,46 @@
     </header>
     <main>
       <section>
-        <h2>Step 1:</h2>
-        <p>Determine the CO2eq of your flight. To do this find your flight on a site such as <a href="https://www.google.com/travel/flights">google flights</a> and note down the emissions estimate for the flight.</p>
+        <h2>Step 1: Calculate Your Flight's CO2 Emissions</h2>
+        <div class="calculator-options">
+          <div id="manual-entry" class="calc-method">
+            <h3>Calculate emissions by route</h3>
+            <div class="form-group">
+              <label for="departure">Departure Airport (Code or City):</label>
+              <input type="text" id="departure" placeholder="e.g., JFK or New York">
+            </div>
+            <div class="form-group">
+              <label for="arrival">Arrival Airport (Code or City):</label>
+              <input type="text" id="arrival" placeholder="e.g., LHR or London">
+            </div>
+            <div class="form-group">
+              <label for="trip-type">Trip Type:</label>
+              <select id="trip-type">
+                <option value="round">Round Trip</option>
+                <option value="one-way">One Way</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="cabin-class">Cabin Class:</label>
+              <select id="cabin-class">
+                <option value="economy">Economy</option>
+                <option value="premium">Premium Economy</option>
+                <option value="business">Business</option>
+                <option value="first">First</option>
+              </select>
+            </div>
+            <button id="calculate-btn" class="primary-btn">Calculate CO2 Emissions</button>
+          </div>
+
+          <div id="results" class="results-section" style="display: none;">
+            <h3>Your Flight's Carbon Footprint</h3>
+            <div class="result-details">
+              <p><strong>Distance:</strong> <span id="distance-result">-</span> km</p>
+              <p><strong>CO2 Emissions:</strong> <span id="co2-result">-</span> kg CO2e</p>
+              <p class="info-note">This calculation uses emission factors from the UK Government's <a href="https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023" target="_blank">GHG Conversion Factors</a> and ICAO methodology, adjusted for cabin class and radiative forcing.</p>
+            </div>
+          </div>
+        </div>
       </section>
       <section>
         <h2>Step 2:</h2>
@@ -102,6 +140,7 @@
         <p>Decide on how much you should pay towards a carbon offsetting/removal to reduce your net emissions. To this you can use this <a href="https://docs.google.com/spreadsheets/d/1EYwDGIbl20xWyNPDbwnK8FjHsNY6kDoKTaZEvI7QUhc/template/preview">spreadsheet</a>.</p>
       </section>
     </main>
+    <script src="js/flight-calculator.js"></script>
   </body>
 
   <footer>

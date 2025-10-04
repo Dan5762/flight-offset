@@ -1,0 +1,6169 @@
+{
+  "QLD": {
+    "name": "Blida Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 36.5036010742,
+    "lon": 2.8141698837
+  },
+  "BUJ": {
+    "name": "Bou Saada Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 35.3325004578,
+    "lon": 4.206389904
+  },
+  "BJA": {
+    "name": "Soummam Airport",
+    "city": "Bejaia",
+    "country": "DZ",
+    "lat": 36.7120018005,
+    "lon": 5.069920063
+  },
+  "ALG": {
+    "name": "Houari Boumediene Airport",
+    "city": "Algiers",
+    "country": "DZ",
+    "lat": 36.6910018921,
+    "lon": 3.2154099941
+  },
+  "DJG": {
+    "name": "Djanet Inedbirene Airport",
+    "city": "Djanet",
+    "country": "DZ",
+    "lat": 24.2928009033,
+    "lon": 9.4524402618
+  },
+  "QFD": {
+    "name": "Boufarik Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 36.5457992554,
+    "lon": 2.8761100769
+  },
+  "VVZ": {
+    "name": "Illizi Takhamalt Airport",
+    "city": "Illizi",
+    "country": "DZ",
+    "lat": 26.7234992981,
+    "lon": 8.6226501465
+  },
+  "QSF": {
+    "name": "Ain Arnat Airport",
+    "city": "Setif",
+    "country": "DZ",
+    "lat": 36.1781005859,
+    "lon": 5.3244900703
+  },
+  "TMR": {
+    "name": "Aguenar – Hadj Bey Akhamok Airport",
+    "city": "Tamanrasset",
+    "country": "DZ",
+    "lat": 22.8115005493,
+    "lon": 5.4510798454
+  },
+  "GJL": {
+    "name": "Jijel Ferhat Abbas Airport",
+    "city": "Jijel",
+    "country": "DZ",
+    "lat": 36.7951011658,
+    "lon": 5.8736100197
+  },
+  "MZW": {
+    "name": "Mecheria Airport",
+    "city": "Mecheria",
+    "country": "DZ",
+    "lat": 33.535900116,
+    "lon": -0.2423530072
+  },
+  "QZN": {
+    "name": "Relizane Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 35.7522010803,
+    "lon": 0.6262720227
+  },
+  "AAE": {
+    "name": "Annaba Airport",
+    "city": "Annabah",
+    "country": "DZ",
+    "lat": 36.8222007751,
+    "lon": 7.8091697693
+  },
+  "CZL": {
+    "name": "Mohamed Boudiaf International Airport",
+    "city": "Constantine",
+    "country": "DZ",
+    "lat": 36.2760009766,
+    "lon": 6.6203899384
+  },
+  "TEE": {
+    "name": "Cheikh Larbi Tebessi Airport",
+    "city": "Tebessi",
+    "country": "DZ",
+    "lat": 35.4315986633,
+    "lon": 8.1207199097
+  },
+  "BLJ": {
+    "name": "Batna Airport",
+    "city": "Batna",
+    "country": "DZ",
+    "lat": 35.7521018982,
+    "lon": 6.3085899353
+  },
+  "HRM": {
+    "name": "Hassi R'Mel Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 32.9304008484,
+    "lon": 3.3115398884
+  },
+  "QDJ": {
+    "name": "Tsletsi Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 34.6657,
+    "lon": 3.351
+  },
+  "TID": {
+    "name": "Bou Chekif Airport",
+    "city": "Tiaret",
+    "country": "DZ",
+    "lat": 35.3410987854,
+    "lon": 1.4631500244
+  },
+  "TIN": {
+    "name": "Tindouf Airport",
+    "city": "Tindouf",
+    "country": "DZ",
+    "lat": 27.7003993988,
+    "lon": -8.1670999527
+  },
+  "CFK": {
+    "name": "Chlef Aboubakr Belkaid Airport",
+    "city": "Chlef",
+    "country": "DZ",
+    "lat": 36.216828,
+    "lon": 1.340739
+  },
+  "TAF": {
+    "name": "Tafaraoui Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 35.5424003601,
+    "lon": -0.5322780013
+  },
+  "TLM": {
+    "name": "Zenata – Messali El Hadj Airport",
+    "city": "Tlemcen",
+    "country": "DZ",
+    "lat": 35.0167007446,
+    "lon": -1.4500000477
+  },
+  "ORN": {
+    "name": "Es Senia Airport",
+    "city": "Oran",
+    "country": "DZ",
+    "lat": 35.6239013672,
+    "lon": -0.6211829782
+  },
+  "CBH": {
+    "name": "Bechar Boudghene Ben Ali Lotfi Airport",
+    "city": "Bechar",
+    "country": "DZ",
+    "lat": 31.6457004547,
+    "lon": -2.2698600292
+  },
+  "BFW": {
+    "name": "Sidi Bel Abbes Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 35.1717987061,
+    "lon": -0.5932750106
+  },
+  "MUW": {
+    "name": "Ghriss Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 35.207698822,
+    "lon": 0.147141993
+  },
+  "EBH": {
+    "name": "El Bayadh Airport",
+    "city": "El Bayadh",
+    "country": "DZ",
+    "lat": 33.7216666667,
+    "lon": 1.0925
+  },
+  "INF": {
+    "name": "In Guezzam Airport",
+    "city": "In Guezzam",
+    "country": "DZ",
+    "lat": 19.5669994354,
+    "lon": 5.75
+  },
+  "BMW": {
+    "name": "Bordj Badji Mokhtar Airport",
+    "city": "Bordj Badji Mokhtar",
+    "country": "DZ",
+    "lat": 21.375,
+    "lon": 0.9238889813
+  },
+  "AZR": {
+    "name": "Touat Cheikh Sidi Mohamed Belkebir Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 27.837600708,
+    "lon": -0.1864140034
+  },
+  "BSK": {
+    "name": "Biskra Airport",
+    "city": "Biskra",
+    "country": "DZ",
+    "lat": 34.7933006287,
+    "lon": 5.7382302284
+  },
+  "ELG": {
+    "name": "El Golea Airport",
+    "city": "",
+    "country": "DZ",
+    "lat": 30.5713005066,
+    "lon": 2.8595900536
+  },
+  "GHA": {
+    "name": "Noumerat - Moufdi Zakaria Airport",
+    "city": "Ghardaia",
+    "country": "DZ",
+    "lat": 32.3841018677,
+    "lon": 3.7941100597
+  },
+  "HME": {
+    "name": "Oued Irara Airport",
+    "city": "Hassi Messaoud",
+    "country": "DZ",
+    "lat": 31.6730003357,
+    "lon": 6.1404399872
+  },
+  "INZ": {
+    "name": "In Salah Airport",
+    "city": "In Salah",
+    "country": "DZ",
+    "lat": 27.2509994507,
+    "lon": 2.5120201111
+  },
+  "TGR": {
+    "name": "Touggourt Sidi Madhi Airport",
+    "city": "Touggourt",
+    "country": "DZ",
+    "lat": 33.0677986145,
+    "lon": 6.0886697769
+  },
+  "LOO": {
+    "name": "Laghouat Airport",
+    "city": "Laghouat",
+    "country": "DZ",
+    "lat": 33.7644004822,
+    "lon": 2.9283399582
+  },
+  "ELU": {
+    "name": "Guemar Airport",
+    "city": "Guemar",
+    "country": "DZ",
+    "lat": 33.5113983154,
+    "lon": 6.7767901421
+  },
+  "TMX": {
+    "name": "Timimoun Airport",
+    "city": "Timimoun",
+    "country": "DZ",
+    "lat": 29.2371006012,
+    "lon": 0.2760330141
+  },
+  "OGX": {
+    "name": "Ain el Beida Airport",
+    "city": "Ouargla",
+    "country": "DZ",
+    "lat": 31.9172000885,
+    "lon": 5.412779808
+  },
+  "IAM": {
+    "name": "In Amenas Airport",
+    "city": "Amenas",
+    "country": "DZ",
+    "lat": 28.0515003204,
+    "lon": 9.6429100037
+  },
+  "MFQ": {
+    "name": "Maradi Airport",
+    "city": "Maradi",
+    "country": "NE",
+    "lat": 13.5024995804,
+    "lon": 7.1267499924
+  },
+  "NIM": {
+    "name": "Diori Hamani International Airport",
+    "city": "Niamey",
+    "country": "NE",
+    "lat": 13.4814996719,
+    "lon": 2.1836099625
+  },
+  "THZ": {
+    "name": "Tahoua Airport",
+    "city": "Tahoua",
+    "country": "NE",
+    "lat": 14.8756999969,
+    "lon": 5.2653598785
+  },
+  "AJY": {
+    "name": "Mano Dayak International Airport",
+    "city": "Agadez",
+    "country": "NE",
+    "lat": 16.9659996033,
+    "lon": 8.0001096725
+  },
+  "RLT": {
+    "name": "Arlit Airport",
+    "city": "Arlit",
+    "country": "NE",
+    "lat": 18.7903995514,
+    "lon": 7.3659501076
+  },
+  "ZND": {
+    "name": "Zinder Airport",
+    "city": "Zinder",
+    "country": "NE",
+    "lat": 13.7790002823,
+    "lon": 8.9837598801
+  },
+  "TBJ": {
+    "name": "Tabarka 7 Novembre Airport",
+    "city": "Tabarka",
+    "country": "TN",
+    "lat": 36.9799995422,
+    "lon": 8.8769397736
+  },
+  "MIR": {
+    "name": "Monastir Habib Bourguiba International Airport",
+    "city": "Monastir",
+    "country": "TN",
+    "lat": 35.7580986023,
+    "lon": 10.754699707
+  },
+  "NBE": {
+    "name": "Enfidha - Hammamet International Airport",
+    "city": "Enfidha",
+    "country": "TN",
+    "lat": 36.075833,
+    "lon": 10.438611
+  },
+  "TUN": {
+    "name": "Tunis Carthage International Airport",
+    "city": "Tunis",
+    "country": "TN",
+    "lat": 36.8510017395,
+    "lon": 10.2271995544
+  },
+  "OIZ": {
+    "name": "Sidi Ahmed Air Base",
+    "city": "Sidi Ahmed",
+    "country": "TN",
+    "lat": 37.2453994751,
+    "lon": 9.7914495468
+  },
+  "GAF": {
+    "name": "Gafsa Ksar International Airport",
+    "city": "Gafsa",
+    "country": "TN",
+    "lat": 34.422000885,
+    "lon": 8.8225002289
+  },
+  "GAE": {
+    "name": "Gabes Matmata International Airport",
+    "city": "Gabes",
+    "country": "TN",
+    "lat": 33.8768997192,
+    "lon": 10.1033000946
+  },
+  "DJE": {
+    "name": "Djerba Zarzis International Airport",
+    "city": "Djerba",
+    "country": "TN",
+    "lat": 33.875,
+    "lon": 10.7755002975
+  },
+  "EBM": {
+    "name": "El Borma Airport",
+    "city": "El Borma",
+    "country": "TN",
+    "lat": 31.7042999268,
+    "lon": 9.2546195984
+  },
+  "SFA": {
+    "name": "Sfax Thyna International Airport",
+    "city": "Sfax",
+    "country": "TN",
+    "lat": 34.7179985046,
+    "lon": 10.6909999847
+  },
+  "TOE": {
+    "name": "Tozeur Nefta International Airport",
+    "city": "Tozeur",
+    "country": "TN",
+    "lat": 33.9397010803,
+    "lon": 8.1105604172
+  },
+  "ALJ": {
+    "name": "Alexander Bay Airport",
+    "city": "Alexander Bay",
+    "country": "ZA",
+    "lat": -28.5750007629,
+    "lon": 16.5333003998
+  },
+  "AGZ": {
+    "name": "Aggeneys Airport",
+    "city": "Aggeneys",
+    "country": "ZA",
+    "lat": -29.2817993164,
+    "lon": 18.8138999939
+  },
+  "ADY": {
+    "name": "Alldays Airport",
+    "city": "Alldays",
+    "country": "ZA",
+    "lat": -22.6790008545,
+    "lon": 29.0555000305
+  },
+  "BIY": {
+    "name": "Bisho Airport",
+    "city": "Bisho",
+    "country": "ZA",
+    "lat": -32.8970985413,
+    "lon": 27.2791004181
+  },
+  "BFN": {
+    "name": "J B M Hertzog International Airport",
+    "city": "Bloemfontain",
+    "country": "ZA",
+    "lat": -29.0926990509,
+    "lon": 26.302400589
+  },
+  "UTE": {
+    "name": "Bultfontein Airport",
+    "city": "Bultfontein",
+    "country": "ZA",
+    "lat": -28.273369,
+    "lon": 26.135835
+  },
+  "CDO": {
+    "name": "Cradock Airport",
+    "city": "Cradock",
+    "country": "ZA",
+    "lat": -32.1567001343,
+    "lon": 25.6455993652
+  },
+  "CPT": {
+    "name": "Cape Town International Airport",
+    "city": "Cape Town",
+    "country": "ZA",
+    "lat": -33.9648017883,
+    "lon": 18.6016998291
+  },
+  "DUK": {
+    "name": "Mubatuba Airport",
+    "city": "Mubatuba",
+    "country": "ZA",
+    "lat": -28.3684005737,
+    "lon": 32.2481002808
+  },
+  "PZL": {
+    "name": "Zulu Inyala Airport",
+    "city": "Phinda",
+    "country": "ZA",
+    "lat": -27.8493995667,
+    "lon": 32.3097000122
+  },
+  "ELS": {
+    "name": "Ben Schoeman Airport",
+    "city": "East London",
+    "country": "ZA",
+    "lat": -33.0355987549,
+    "lon": 27.8258991241
+  },
+  "EMG": {
+    "name": "Empangeni Airport",
+    "city": "Empangeni",
+    "country": "ZA",
+    "lat": -28.7199993134,
+    "lon": 31.8899993896
+  },
+  "ELL": {
+    "name": "Ellisras Matimba Airport",
+    "city": "Ellisras",
+    "country": "ZA",
+    "lat": -23.7266998291,
+    "lon": 27.6882991791
+  },
+  "FCB": {
+    "name": "Ficksburg Sentraoes Airport",
+    "city": "Ficksburg",
+    "country": "ZA",
+    "lat": -28.8230991364,
+    "lon": 27.9088993073
+  },
+  "GCJ": {
+    "name": "Grand Central Airport",
+    "city": "Midrand",
+    "country": "ZA",
+    "lat": -25.9862995148,
+    "lon": 28.1401004791
+  },
+  "GRJ": {
+    "name": "George Airport",
+    "city": "George",
+    "country": "ZA",
+    "lat": -34.0055999756,
+    "lon": 22.378900528
+  },
+  "GIY": {
+    "name": "Giyani Airport",
+    "city": "Giyani",
+    "country": "ZA",
+    "lat": -23.2833003998,
+    "lon": 30.6499996185
+  },
+  "QRA": {
+    "name": "Rand Airport",
+    "city": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.2425003052,
+    "lon": 28.1511993408
+  },
+  "HLW": {
+    "name": "Hluhluwe Airport",
+    "city": "Hluhluwe",
+    "country": "ZA",
+    "lat": -28.0166049887,
+    "lon": 32.2751712799
+  },
+  "HRS": {
+    "name": "Harrismith Airport",
+    "city": "Harrismith",
+    "country": "ZA",
+    "lat": -28.2350997925,
+    "lon": 29.1061992645
+  },
+  "HDS": {
+    "name": "Hoedspruit Air Force Base Airport",
+    "city": "Hoedspruit",
+    "country": "ZA",
+    "lat": -24.3686008453,
+    "lon": 31.0487003326
+  },
+  "KXE": {
+    "name": "P C Pelser Airport",
+    "city": "Klerksdorp",
+    "country": "ZA",
+    "lat": -26.871099472,
+    "lon": 26.718000412
+  },
+  "KIM": {
+    "name": "Kimberley Airport",
+    "city": "Kimberley",
+    "country": "ZA",
+    "lat": -28.8027992249,
+    "lon": 24.7651996613
+  },
+  "MQP": {
+    "name": "Kruger Mpumalanga International Airport",
+    "city": "Mpumalanga",
+    "country": "ZA",
+    "lat": -25.3831996918,
+    "lon": 31.1056003571
+  },
+  "KOF": {
+    "name": "Komatipoort Airport",
+    "city": "Komatipoort",
+    "country": "ZA",
+    "lat": -25.4402999878,
+    "lon": 31.9300003052
+  },
+  "KMH": {
+    "name": "Johan Pienaar Airport",
+    "city": "Kuruman",
+    "country": "ZA",
+    "lat": -27.4566993713,
+    "lon": 23.4113998413
+  },
+  "KLZ": {
+    "name": "Kleinsee Airport",
+    "city": "Kleinsee",
+    "country": "ZA",
+    "lat": -29.6884002686,
+    "lon": 17.0939998627
+  },
+  "HLA": {
+    "name": "Lanseria Airport",
+    "city": "Johannesburg",
+    "country": "ZA",
+    "lat": -25.9384994507,
+    "lon": 27.9260997772
+  },
+  "LMR": {
+    "name": "Lime Acres Finsch Mine Airport",
+    "city": "Lime Acres",
+    "country": "ZA",
+    "lat": -28.3600997925,
+    "lon": 23.4391002655
+  },
+  "LDZ": {
+    "name": "Londolozi Airport",
+    "city": "Londolozi",
+    "country": "ZA",
+    "lat": -24.7502002716,
+    "lon": 31.4757003784
+  },
+  "DUR": {
+    "name": "King Shaka International Airport",
+    "city": "Durban",
+    "country": "ZA",
+    "lat": -29.6144444444,
+    "lon": 31.1197222222
+  },
+  "LUJ": {
+    "name": "Lusikisiki Airport",
+    "city": "Lusikisiki",
+    "country": "ZA",
+    "lat": -31.3666992188,
+    "lon": 29.5832996368
+  },
+  "LCD": {
+    "name": "Louis Trichardt Airport",
+    "city": "Louis Trichardt",
+    "country": "ZA",
+    "lat": -23.0618991852,
+    "lon": 29.8647003174
+  },
+  "SDB": {
+    "name": "Langebaanweg Airport",
+    "city": "Langebaanweg",
+    "country": "ZA",
+    "lat": -32.9688987732,
+    "lon": 18.1602993011
+  },
+  "LAY": {
+    "name": "Ladysmith Airport",
+    "city": "Ladysmith",
+    "country": "ZA",
+    "lat": -28.5816993713,
+    "lon": 29.7497005463
+  },
+  "AAM": {
+    "name": "Malamala Airport",
+    "city": "Malamala",
+    "country": "ZA",
+    "lat": -24.8180999756,
+    "lon": 31.5445995331
+  },
+  "MGH": {
+    "name": "Margate Airport",
+    "city": "Margate",
+    "country": "ZA",
+    "lat": -30.8574008942,
+    "lon": 30.343000412
+  },
+  "MEZ": {
+    "name": "Musina(Messina) Airport",
+    "city": "Musina",
+    "country": "ZA",
+    "lat": -22.3560009003,
+    "lon": 29.9862003326
+  },
+  "MBD": {
+    "name": "Mmabatho International Airport",
+    "city": "Mafeking",
+    "country": "ZA",
+    "lat": -25.7984008789,
+    "lon": 25.5480003357
+  },
+  "LLE": {
+    "name": "Riverside Airport",
+    "city": "Malelane",
+    "country": "ZA",
+    "lat": -25.4300003052,
+    "lon": 31.5767002106
+  },
+  "MZY": {
+    "name": "Mossel Bay Airport",
+    "city": "Mossel Bay",
+    "country": "ZA",
+    "lat": -34.1582984924,
+    "lon": 22.058599472
+  },
+  "MZQ": {
+    "name": "Mkuze Airport",
+    "city": "Mkuze",
+    "country": "ZA",
+    "lat": -27.6261005402,
+    "lon": 32.0443000793
+  },
+  "NCS": {
+    "name": "Newcastle Airport",
+    "city": "Newcastle",
+    "country": "ZA",
+    "lat": -27.7705993652,
+    "lon": 29.9769001007
+  },
+  "NGL": {
+    "name": "Ngala Airport",
+    "city": "Ngala",
+    "country": "ZA",
+    "lat": -24.3878002167,
+    "lon": 31.325799942
+  },
+  "NLP": {
+    "name": "Nelspruit Airport",
+    "city": "Nelspruit",
+    "country": "ZA",
+    "lat": -25.5,
+    "lon": 30.9137992859
+  },
+  "OVG": {
+    "name": "Overberg Airport",
+    "city": "Overberg",
+    "country": "ZA",
+    "lat": -34.554901123,
+    "lon": 20.2506999969
+  },
+  "OUH": {
+    "name": "Oudtshoorn Airport",
+    "city": "Oudtshoorn",
+    "country": "ZA",
+    "lat": -33.6069984436,
+    "lon": 22.188999176
+  },
+  "JNB": {
+    "name": "O. R. Tambo International Airport",
+    "city": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.133333,
+    "lon": 28.25
+  },
+  "AFD": {
+    "name": "Port Alfred Airport",
+    "city": "Port Alfred",
+    "country": "ZA",
+    "lat": -33.5541992188,
+    "lon": 26.8777008057
+  },
+  "PLZ": {
+    "name": "Port Elizabeth Airport",
+    "city": "Port Elizabeth",
+    "country": "ZA",
+    "lat": -33.9849014282,
+    "lon": 25.6173000336
+  },
+  "PBZ": {
+    "name": "Plettenberg Bay Airport",
+    "city": "Plettenberg Bay",
+    "country": "ZA",
+    "lat": -34.0903015137,
+    "lon": 23.3278007507
+  },
+  "PHW": {
+    "name": "Hendrik Van Eck Airport",
+    "city": "Phalaborwa",
+    "country": "ZA",
+    "lat": -23.9372005463,
+    "lon": 31.1553993225
+  },
+  "JOH": {
+    "name": "Port St Johns Airport",
+    "city": "Port St Johns",
+    "country": "ZA",
+    "lat": -31.6058998108,
+    "lon": 29.5198001862
+  },
+  "PRK": {
+    "name": "Prieska Airport",
+    "city": "Prieska",
+    "country": "ZA",
+    "lat": -29.683599472,
+    "lon": 22.7705993652
+  },
+  "PZB": {
+    "name": "Pietermaritzburg Airport",
+    "city": "Pietermaritzburg",
+    "country": "ZA",
+    "lat": -29.6490001678,
+    "lon": 30.3987007141
+  },
+  "NTY": {
+    "name": "Pilanesberg International Airport",
+    "city": "Pilanesberg",
+    "country": "ZA",
+    "lat": -25.3337993622,
+    "lon": 27.1734008789
+  },
+  "PTG": {
+    "name": "Polokwane International Airport",
+    "city": "Potgietersrus",
+    "country": "ZA",
+    "lat": -23.8453006744,
+    "lon": 29.4585990906
+  },
+  "PCF": {
+    "name": "Potchefstroom Airport",
+    "city": "Potchefstroom",
+    "country": "ZA",
+    "lat": -26.670999527,
+    "lon": 27.0818996429
+  },
+  "UTW": {
+    "name": "Queenstown Airport",
+    "city": "Queenstown",
+    "country": "ZA",
+    "lat": -31.9202003479,
+    "lon": 26.8822002411
+  },
+  "RCB": {
+    "name": "Richards Bay Airport",
+    "city": "Richards Bay",
+    "country": "ZA",
+    "lat": -28.7409992218,
+    "lon": 32.0920982361
+  },
+  "RVO": {
+    "name": "Reivilo Airport",
+    "city": "Reivilo",
+    "country": "ZA",
+    "lat": -27.5471992493,
+    "lon": 24.1725006104
+  },
+  "ROD": {
+    "name": "Robertson Airport",
+    "city": "Robertson",
+    "country": "ZA",
+    "lat": -33.8121986389,
+    "lon": 19.9027996063
+  },
+  "SBU": {
+    "name": "Springbok Airport",
+    "city": "Springbok",
+    "country": "ZA",
+    "lat": -29.6893005371,
+    "lon": 17.9395999908
+  },
+  "ZEC": {
+    "name": "Secunda Airport",
+    "city": "Secunda",
+    "country": "ZA",
+    "lat": -26.52409935,
+    "lon": 29.1700992584
+  },
+  "GSS": {
+    "name": "Sabi Sabi Airport",
+    "city": "Belfast",
+    "country": "ZA",
+    "lat": -24.9414997101,
+    "lon": 31.4445991516
+  },
+  "SIS": {
+    "name": "Sishen Airport",
+    "city": "Sishen",
+    "country": "ZA",
+    "lat": -27.6485996246,
+    "lon": 22.9993000031
+  },
+  "SZK": {
+    "name": "Skukuza Airport",
+    "city": "Skukuza",
+    "country": "ZA",
+    "lat": -24.960899353,
+    "lon": 31.5886993408
+  },
+  "TDT": {
+    "name": "Tanda Tula Airport",
+    "city": "Welverdiend",
+    "country": "ZA",
+    "lat": -24.5335998535,
+    "lon": 31.2999992371
+  },
+  "THY": {
+    "name": "Thohoyandou Airport",
+    "city": "Thohoyandou",
+    "country": "ZA",
+    "lat": -23.0769004822,
+    "lon": 30.383600235
+  },
+  "TCU": {
+    "name": "Thaba Nchu Tar Airport",
+    "city": "Homeward",
+    "country": "ZA",
+    "lat": -29.3178005219,
+    "lon": 26.8227996826
+  },
+  "LTA": {
+    "name": "Tzaneen Airport",
+    "city": "Tzaneen",
+    "country": "ZA",
+    "lat": -23.8243999481,
+    "lon": 30.3292999268
+  },
+  "ULD": {
+    "name": "Prince Mangosuthu Buthelezi Airport",
+    "city": "Ulundi",
+    "country": "ZA",
+    "lat": -28.3206005096,
+    "lon": 31.4165000916
+  },
+  "UTN": {
+    "name": "Pierre Van Ryneveld Airport",
+    "city": "Upington",
+    "country": "ZA",
+    "lat": -28.39909935,
+    "lon": 21.2602005005
+  },
+  "ULX": {
+    "name": "Ulusaba Airport",
+    "city": "Ulusaba",
+    "country": "ZA",
+    "lat": -24.7854003906,
+    "lon": 31.3549003601
+  },
+  "UTT": {
+    "name": "K. D. Matanzima Airport",
+    "city": "Mthatha",
+    "country": "ZA",
+    "lat": -31.5478992462,
+    "lon": 28.6742992401
+  },
+  "VRU": {
+    "name": "Vryburg Airport",
+    "city": "Vyrburg",
+    "country": "ZA",
+    "lat": -26.9824008942,
+    "lon": 24.7287998199
+  },
+  "VIR": {
+    "name": "Virginia Airport",
+    "city": "Durban",
+    "country": "ZA",
+    "lat": -29.7705993652,
+    "lon": 31.0583992004
+  },
+  "VRE": {
+    "name": "Vredendal Airport",
+    "city": "Vredendal",
+    "country": "ZA",
+    "lat": -31.6410007477,
+    "lon": 18.5447998047
+  },
+  "VYD": {
+    "name": "Vryheid Airport",
+    "city": "Vryheid",
+    "country": "ZA",
+    "lat": -27.7868995667,
+    "lon": 30.7964000702
+  },
+  "PRY": {
+    "name": "Wonderboom Airport",
+    "city": "Pretoria",
+    "country": "ZA",
+    "lat": -25.6539001465,
+    "lon": 28.224199295
+  },
+  "WKF": {
+    "name": "Waterkloof Air Force Base",
+    "city": "Pretoria",
+    "country": "ZA",
+    "lat": -25.8299999237,
+    "lon": 28.2224998474
+  },
+  "WEL": {
+    "name": "Welkom Airport",
+    "city": "Welkom",
+    "country": "ZA",
+    "lat": -27.9979991913,
+    "lon": 26.6695995331
+  },
+  "FRW": {
+    "name": "Francistown Airport",
+    "city": "Francistown",
+    "country": "BW",
+    "lat": -21.1595993042,
+    "lon": 27.4745006561
+  },
+  "GNZ": {
+    "name": "Ghanzi Airport",
+    "city": "Ghanzi",
+    "country": "BW",
+    "lat": -21.6924991608,
+    "lon": 21.6581001282
+  },
+  "JWA": {
+    "name": "Jwaneng Airport",
+    "city": "",
+    "country": "BW",
+    "lat": -24.6023006439,
+    "lon": 24.6909999847
+  },
+  "BBK": {
+    "name": "Kasane Airport",
+    "city": "Kasane",
+    "country": "BW",
+    "lat": -17.8328990936,
+    "lon": 25.162399292
+  },
+  "KHW": {
+    "name": "Khwai River Lodge Airport",
+    "city": "Khwai River Lodge",
+    "country": "BW",
+    "lat": -19.1499996185,
+    "lon": 23.783000946
+  },
+  "MUB": {
+    "name": "Maun Airport",
+    "city": "Maun",
+    "country": "BW",
+    "lat": -19.9726009369,
+    "lon": 23.4311008453
+  },
+  "ORP": {
+    "name": "Orapa Airport",
+    "city": "",
+    "country": "BW",
+    "lat": -21.2667007446,
+    "lon": 25.3166999817
+  },
+  "QPH": {
+    "name": "Palapye Airport",
+    "city": "Palapye",
+    "country": "BW",
+    "lat": -22.5669994354,
+    "lon": 27.1499996185
+  },
+  "GBE": {
+    "name": "Sir Seretse Khama International Airport",
+    "city": "Gaborone",
+    "country": "BW",
+    "lat": -24.5552005768,
+    "lon": 25.9181995392
+  },
+  "SXN": {
+    "name": "Sua Pan Airport",
+    "city": "",
+    "country": "BW",
+    "lat": -20.5534000397,
+    "lon": 26.1158008575
+  },
+  "PKW": {
+    "name": "Selebi Phikwe Airport",
+    "city": "",
+    "country": "BW",
+    "lat": -22.0583000183,
+    "lon": 27.8288002014
+  },
+  "SVT": {
+    "name": "Savuti Airport",
+    "city": "Savuti",
+    "country": "BW",
+    "lat": -18.5205993652,
+    "lon": 24.0767002106
+  },
+  "SWX": {
+    "name": "Shakawe Airport",
+    "city": "Shakawe",
+    "country": "BW",
+    "lat": -18.3738994598,
+    "lon": 21.8325996399
+  },
+  "TLD": {
+    "name": "Limpopo Valley Airport",
+    "city": "Tuli Lodge",
+    "country": "BW",
+    "lat": -22.1891994476,
+    "lon": 29.1268997192
+  },
+  "TBY": {
+    "name": "Tshabong Airport",
+    "city": "Tshabong",
+    "country": "BW",
+    "lat": -26.0333003998,
+    "lon": 22.3999996185
+  },
+  "BZV": {
+    "name": "Maya-Maya Airport",
+    "city": "Brazzaville",
+    "country": "CG",
+    "lat": -4.2516999245,
+    "lon": 15.2530002594
+  },
+  "DJM": {
+    "name": "Djambala Airport",
+    "city": "Djambala",
+    "country": "CG",
+    "lat": -2.5329999924,
+    "lon": 14.75
+  },
+  "KNJ": {
+    "name": "Kindamba Airport",
+    "city": "Kindamba",
+    "country": "CG",
+    "lat": -3.9500000477,
+    "lon": 14.5170001984
+  },
+  "LCO": {
+    "name": "Lague Airport",
+    "city": "Lague",
+    "country": "CG",
+    "lat": -2.4500000477,
+    "lon": 14.5329999924
+  },
+  "MUY": {
+    "name": "Mouyondzi Airport",
+    "city": "Mouyondzi",
+    "country": "CG",
+    "lat": -4.0148739815,
+    "lon": 13.9661121368
+  },
+  "SIB": {
+    "name": "Sibiti Airport",
+    "city": "Sibiti",
+    "country": "CG",
+    "lat": -3.6830000877,
+    "lon": 13.3500003815
+  },
+  "NKY": {
+    "name": "Yokangassi Airport",
+    "city": "Nkayi",
+    "country": "CG",
+    "lat": -4.2170000076,
+    "lon": 13.2829999924
+  },
+  "ANJ": {
+    "name": "Zanaga Airport",
+    "city": "Zanaga",
+    "country": "CG",
+    "lat": -2.8499999046,
+    "lon": 13.8170003891
+  },
+  "MSX": {
+    "name": "Mossendjo Airport",
+    "city": "Mossendjo",
+    "country": "CG",
+    "lat": -2.9500000477,
+    "lon": 12.6999998093
+  },
+  "BOE": {
+    "name": "Boundji Airport",
+    "city": "Boundji",
+    "country": "CG",
+    "lat": -1.0329999924,
+    "lon": 15.3830003738
+  },
+  "EWO": {
+    "name": "Ewo Airport",
+    "city": "Ewo",
+    "country": "CG",
+    "lat": -0.8830000162,
+    "lon": 14.8000001907
+  },
+  "GMM": {
+    "name": "Gamboma Airport",
+    "city": "Gamboma",
+    "country": "CG",
+    "lat": -1.829403,
+    "lon": 15.885237
+  },
+  "ION": {
+    "name": "Impfondo Airport",
+    "city": "Impfondo",
+    "country": "CG",
+    "lat": 1.6169999838,
+    "lon": 18.0669994354
+  },
+  "KEE": {
+    "name": "Kelle Airport",
+    "city": "Kelle",
+    "country": "CG",
+    "lat": -0.0829999968,
+    "lon": 14.5329999924
+  },
+  "MKJ": {
+    "name": "Makoua Airport",
+    "city": "Makoua",
+    "country": "CG",
+    "lat": -0.0170000009,
+    "lon": 15.5830001831
+  },
+  "FTX": {
+    "name": "Owando Airport",
+    "city": "Owando",
+    "country": "CG",
+    "lat": -0.5313500166,
+    "lon": 15.9500999451
+  },
+  "SOE": {
+    "name": "Souanke Airport",
+    "city": "Souanke",
+    "country": "CG",
+    "lat": 2.0669999123,
+    "lon": 14.1330003738
+  },
+  "BTB": {
+    "name": "Betou Airport",
+    "city": "Betou",
+    "country": "CG",
+    "lat": 3.0499999523,
+    "lon": 18.5
+  },
+  "OUE": {
+    "name": "Ouesso Airport",
+    "city": "",
+    "country": "CG",
+    "lat": 1.6159900427,
+    "lon": 16.0379009247
+  },
+  "KMK": {
+    "name": "Makabana Airport",
+    "city": "Makabana",
+    "country": "CG",
+    "lat": -3.4830000401,
+    "lon": 12.6169996262
+  },
+  "DIS": {
+    "name": "Ngot Nzoungou Airport",
+    "city": "Dolisie",
+    "country": "CG",
+    "lat": -4.20635,
+    "lon": 12.6599
+  },
+  "PNR": {
+    "name": "Pointe Noire Airport",
+    "city": "Pointe Noire",
+    "country": "CG",
+    "lat": -4.8160300255,
+    "lon": 11.8865995407
+  },
+  "MTS": {
+    "name": "Matsapha Airport",
+    "city": "Manzini",
+    "country": "SZ",
+    "lat": -26.5289993286,
+    "lon": 31.3075008392
+  },
+  "CRF": {
+    "name": "Carnot Airport",
+    "city": "Carnot",
+    "country": "CF",
+    "lat": 4.9369997978,
+    "lon": 15.8940000534
+  },
+  "BGF": {
+    "name": "Bangui M'Poko International Airport",
+    "city": "Bangui",
+    "country": "CF",
+    "lat": 4.3984799385,
+    "lon": 18.5188007355
+  },
+  "BGU": {
+    "name": "Bangassou Airport",
+    "city": "Bangassou",
+    "country": "CF",
+    "lat": 4.7849998474,
+    "lon": 22.7810001373
+  },
+  "IRO": {
+    "name": "Birao Airport",
+    "city": "Birao",
+    "country": "CF",
+    "lat": 10.2363996506,
+    "lon": 22.7168998718
+  },
+  "BBY": {
+    "name": "Bambari Airport",
+    "city": "Bambari",
+    "country": "CF",
+    "lat": 5.8469400406,
+    "lon": 20.6474990845
+  },
+  "NDL": {
+    "name": "N'Dele Airport",
+    "city": "N'Dele",
+    "country": "CF",
+    "lat": 8.4272060394,
+    "lon": 20.6351566315
+  },
+  "BOP": {
+    "name": "Bouar Airport",
+    "city": "Bouar",
+    "country": "CF",
+    "lat": 5.9580001831,
+    "lon": 15.6370000839
+  },
+  "BIV": {
+    "name": "Bria Airport",
+    "city": "Bria",
+    "country": "CF",
+    "lat": 6.527780056,
+    "lon": 21.9894008636
+  },
+  "BSN": {
+    "name": "Bossangoa Airport",
+    "city": "Bossangoa",
+    "country": "CF",
+    "lat": 6.492000103,
+    "lon": 17.4290008545
+  },
+  "BBT": {
+    "name": "Berberati Airport",
+    "city": "Berberati",
+    "country": "CF",
+    "lat": 4.2215800285,
+    "lon": 15.7863998413
+  },
+  "ODA": {
+    "name": "Ouadda Airport",
+    "city": "Ouadda",
+    "country": "CF",
+    "lat": 8.0105600357,
+    "lon": 22.3985996246
+  },
+  "AIG": {
+    "name": "Yalinga Airport",
+    "city": "Yalinga",
+    "country": "CF",
+    "lat": 6.5199999809,
+    "lon": 23.2600002289
+  },
+  "IMO": {
+    "name": "Zemio Airport",
+    "city": "Zemio",
+    "country": "CF",
+    "lat": 5.0500001907,
+    "lon": 25.1499996185
+  },
+  "MKI": {
+    "name": "M'Boki Airport",
+    "city": "Mboki",
+    "country": "CF",
+    "lat": 5.3330101967,
+    "lon": 25.9319000244
+  },
+  "BTG": {
+    "name": "Batangafo Airport",
+    "city": "Batangafo",
+    "country": "CF",
+    "lat": 7.3141098022,
+    "lon": 18.3087997437
+  },
+  "GDI": {
+    "name": "Gordil Airport",
+    "city": "Melle",
+    "country": "CF",
+    "lat": 9.5830001831,
+    "lon": 21.7329998016
+  },
+  "BMF": {
+    "name": "Bakouma Airport",
+    "city": "Bakouma",
+    "country": "CF",
+    "lat": 5.6939997673,
+    "lon": 22.8010005951
+  },
+  "ODJ": {
+    "name": "Ouanda Djalle Airport",
+    "city": "Ouanda Djalle",
+    "country": "CF",
+    "lat": 8.8999996185,
+    "lon": 22.783000946
+  },
+  "RFA": {
+    "name": "Rafai Airport",
+    "city": "Rafai",
+    "country": "CF",
+    "lat": 4.9886097908,
+    "lon": 23.9277992249
+  },
+  "BCF": {
+    "name": "Bouca Airport",
+    "city": "Bouca",
+    "country": "CF",
+    "lat": 6.5170001984,
+    "lon": 18.2670001984
+  },
+  "BOZ": {
+    "name": "Bozoum Airport",
+    "city": "Bozoum",
+    "country": "CF",
+    "lat": 6.3441700935,
+    "lon": 16.3218994141
+  },
+  "BSG": {
+    "name": "Bata Airport",
+    "city": "",
+    "country": "GQ",
+    "lat": 1.9054700136,
+    "lon": 9.805680275
+  },
+  "SSG": {
+    "name": "Malabo Airport",
+    "city": "Malabo",
+    "country": "GQ",
+    "lat": 3.7552700043,
+    "lon": 8.7087202072
+  },
+  "MRU": {
+    "name": "Sir Seewoosagur Ramgoolam International Airport",
+    "city": "Port Louis",
+    "country": "MU",
+    "lat": -20.4302005768,
+    "lon": 57.6836013794
+  },
+  "RRG": {
+    "name": "Sir Charles Gaetan Duval Airport",
+    "city": "Port Mathurin",
+    "country": "MU",
+    "lat": -19.7576999664,
+    "lon": 63.361000061
+  },
+  "NKS": {
+    "name": "Nkongsamba Airport",
+    "city": "Nkongsamba",
+    "country": "CM",
+    "lat": 4.9499998093,
+    "lon": 9.9329996109
+  },
+  "KBI": {
+    "name": "Kribi Airport",
+    "city": "Kribi",
+    "country": "CM",
+    "lat": 2.8738899231,
+    "lon": 9.9777803421
+  },
+  "TKC": {
+    "name": "Tiko Airport",
+    "city": "Tiko",
+    "country": "CM",
+    "lat": 4.0891900063,
+    "lon": 9.3605298996
+  },
+  "DLA": {
+    "name": "Douala International Airport",
+    "city": "Douala",
+    "country": "CM",
+    "lat": 4.0060801506,
+    "lon": 9.7194795609
+  },
+  "MMF": {
+    "name": "Mamfe Airport",
+    "city": "Mamfe",
+    "country": "CM",
+    "lat": 5.7041702271,
+    "lon": 9.3063898087
+  },
+  "BLC": {
+    "name": "Bali Airport",
+    "city": "Bali",
+    "country": "CM",
+    "lat": 5.8952777778,
+    "lon": 10.0338888889
+  },
+  "KLE": {
+    "name": "Kaele Airport",
+    "city": "Kaele",
+    "country": "CM",
+    "lat": 10.092499733,
+    "lon": 14.445599556
+  },
+  "OUR": {
+    "name": "Batouri Airport",
+    "city": "Batouri",
+    "country": "CM",
+    "lat": 4.4749999046,
+    "lon": 14.3625001907
+  },
+  "GXX": {
+    "name": "Yagoua Airport",
+    "city": "Yagoua",
+    "country": "CM",
+    "lat": 10.3561000824,
+    "lon": 15.2371997833
+  },
+  "MVR": {
+    "name": "Salak Airport",
+    "city": "Maroua",
+    "country": "CM",
+    "lat": 10.4513998032,
+    "lon": 14.257399559
+  },
+  "FOM": {
+    "name": "Foumban Nkounja Airport",
+    "city": "Foumban",
+    "country": "CM",
+    "lat": 5.6369199753,
+    "lon": 10.7508001328
+  },
+  "NGE": {
+    "name": "N'Gaoundere Airport",
+    "city": "N'Gaoundere",
+    "country": "CM",
+    "lat": 7.3570098877,
+    "lon": 13.5592002869
+  },
+  "BTA": {
+    "name": "Bertoua Airport",
+    "city": "Bertoua",
+    "country": "CM",
+    "lat": 4.5486102104,
+    "lon": 13.726099968
+  },
+  "GOU": {
+    "name": "Garoua International Airport",
+    "city": "Garoua",
+    "country": "CM",
+    "lat": 9.3358898163,
+    "lon": 13.3701000214
+  },
+  "DSC": {
+    "name": "Dschang Airport",
+    "city": "Dschang",
+    "country": "CM",
+    "lat": 5.4499998093,
+    "lon": 10.0670003891
+  },
+  "BFX": {
+    "name": "Bafoussam Airport",
+    "city": "Bafoussam",
+    "country": "CM",
+    "lat": 5.5369200707,
+    "lon": 10.3545999527
+  },
+  "BPC": {
+    "name": "Bamenda Airport",
+    "city": "Bamenda",
+    "country": "CM",
+    "lat": 6.0392398834,
+    "lon": 10.1225996017
+  },
+  "EBW": {
+    "name": "Ebolowa Airport",
+    "city": "Ebolowa",
+    "country": "CM",
+    "lat": 2.8759999275,
+    "lon": 11.1850004196
+  },
+  "YAO": {
+    "name": "Yaounde Airport",
+    "city": "Yaounde",
+    "country": "CM",
+    "lat": 3.83604002,
+    "lon": 11.5235004425
+  },
+  "NSI": {
+    "name": "Yaounde Nsimalen International Airport",
+    "city": "Yaounde",
+    "country": "CM",
+    "lat": 3.7225599289,
+    "lon": 11.5532999039
+  },
+  "MMQ": {
+    "name": "Mbala Airport",
+    "city": "Mbala",
+    "country": "ZM",
+    "lat": -8.85916996,
+    "lon": 31.3363990784
+  },
+  "CIP": {
+    "name": "Chipata Airport",
+    "city": "Chipata",
+    "country": "ZM",
+    "lat": -13.5583000183,
+    "lon": 32.5872001648
+  },
+  "JEK": {
+    "name": "Jeki Airstrip",
+    "city": "Lower Zambezi National Park",
+    "country": "ZM",
+    "lat": -15.633332,
+    "lon": 29.603333
+  },
+  "CGJ": {
+    "name": "Kasompe Airport",
+    "city": "Kasompe",
+    "country": "ZM",
+    "lat": -12.5727996826,
+    "lon": 27.8938999176
+  },
+  "LUN": {
+    "name": "Kenneth Kaunda International Airport",
+    "city": "Lusaka",
+    "country": "ZM",
+    "lat": -15.3308000565,
+    "lon": 28.4526004791
+  },
+  "KLB": {
+    "name": "Kalabo Airport",
+    "city": "Kalabo",
+    "country": "ZM",
+    "lat": -14.9982995987,
+    "lon": 22.6453990936
+  },
+  "KMZ": {
+    "name": "Kaoma Airport",
+    "city": "Kaoma",
+    "country": "ZM",
+    "lat": -14.8000001907,
+    "lon": 24.783000946
+  },
+  "KAA": {
+    "name": "Kasama Airport",
+    "city": "Kasama",
+    "country": "ZM",
+    "lat": -10.2166996002,
+    "lon": 31.1333007813
+  },
+  "ZKB": {
+    "name": "Kasaba Bay Airport",
+    "city": "Kasaba Bay",
+    "country": "ZM",
+    "lat": -8.5249996185,
+    "lon": 30.6630001068
+  },
+  "LVI": {
+    "name": "Livingstone Airport",
+    "city": "Livingstone",
+    "country": "ZM",
+    "lat": -17.8218002319,
+    "lon": 25.8227005005
+  },
+  "LXU": {
+    "name": "Lukulu Airport",
+    "city": "Lukulu",
+    "country": "ZM",
+    "lat": -14.3747997284,
+    "lon": 23.2495002747
+  },
+  "MNS": {
+    "name": "Mansa Airport",
+    "city": "Mansa",
+    "country": "ZM",
+    "lat": -11.1370000839,
+    "lon": 28.8726005554
+  },
+  "MFU": {
+    "name": "Mfuwe Airport",
+    "city": "Mfuwe",
+    "country": "ZM",
+    "lat": -13.2588996887,
+    "lon": 31.9365997314
+  },
+  "MNR": {
+    "name": "Mongu Airport",
+    "city": "Mongu",
+    "country": "ZM",
+    "lat": -15.2545003891,
+    "lon": 23.1623001099
+  },
+  "ZGM": {
+    "name": "Ngoma Airport",
+    "city": "Ngoma",
+    "country": "ZM",
+    "lat": -15.9658002853,
+    "lon": 25.9333000183
+  },
+  "NLA": {
+    "name": "Simon Mwansa Kapwepwe International Airport",
+    "city": "Ndola",
+    "country": "ZM",
+    "lat": -12.961667,
+    "lon": 28.516667
+  },
+  "SXG": {
+    "name": "Senanga Airport",
+    "city": "Senanga",
+    "country": "ZM",
+    "lat": -16.1000003815,
+    "lon": 23.2670001984
+  },
+  "KIW": {
+    "name": "Southdowns Airport",
+    "city": "Kitwe",
+    "country": "ZM",
+    "lat": -12.9005002975,
+    "lon": 28.1499004364
+  },
+  "SJQ": {
+    "name": "Sesheke Airport",
+    "city": "Sesheke",
+    "country": "ZM",
+    "lat": -17.4762992859,
+    "lon": 24.3047008514
+  },
+  "SLI": {
+    "name": "Solwesi Airport",
+    "city": "Solwesi",
+    "country": "ZM",
+    "lat": -12.1737003326,
+    "lon": 26.3651008606
+  },
+  "BBZ": {
+    "name": "Zambezi Airport",
+    "city": "Zambezi",
+    "country": "ZM",
+    "lat": -13.5361003876,
+    "lon": 23.108499527
+  },
+  "HAH": {
+    "name": "Prince Said Ibrahim International Airport",
+    "city": "Moroni",
+    "country": "KM",
+    "lat": -11.5336999893,
+    "lon": 43.271900177
+  },
+  "NWA": {
+    "name": "Moheli Bandar Es Eslam Airport",
+    "city": "",
+    "country": "KM",
+    "lat": -12.2981004715,
+    "lon": 43.7663993835
+  },
+  "YVA": {
+    "name": "Iconi Airport",
+    "city": "Moroni",
+    "country": "KM",
+    "lat": -11.7108001709,
+    "lon": 43.2439002991
+  },
+  "AJN": {
+    "name": "Ouani Airport",
+    "city": "Ouani",
+    "country": "KM",
+    "lat": -12.1316995621,
+    "lon": 44.4303016663
+  },
+  "DZA": {
+    "name": "Dzaoudzi Pamandzi International Airport",
+    "city": "Dzaoudzi",
+    "country": "YT",
+    "lat": -12.8046998978,
+    "lon": 45.2811012268
+  },
+  "RUN": {
+    "name": "Roland Garros Airport",
+    "city": "St Denis",
+    "country": "RE",
+    "lat": -20.8871002197,
+    "lon": 55.5102996826
+  },
+  "ZSE": {
+    "name": "Pierrefonds Airport",
+    "city": "St Pierre",
+    "country": "RE",
+    "lat": -21.3208999634,
+    "lon": 55.4249992371
+  },
+  "OHB": {
+    "name": "Moramanga Aerodrome",
+    "city": "Moramanga",
+    "country": "MG",
+    "lat": -18.9175,
+    "lon": 48.2181944444
+  },
+  "WML": {
+    "name": "Malaimbandy Airport",
+    "city": "Malaimbandy",
+    "country": "MG",
+    "lat": -20.3553902921,
+    "lon": 45.5433726311
+  },
+  "ATJ": {
+    "name": "Antsirabe Airport",
+    "city": "Antsirabe",
+    "country": "MG",
+    "lat": -19.8392214824,
+    "lon": 47.0637130737
+  },
+  "WAQ": {
+    "name": "Antsalova Airport",
+    "city": "Antsalova",
+    "country": "MG",
+    "lat": -18.7012732424,
+    "lon": 44.6149206161
+  },
+  "VVB": {
+    "name": "Mahanoro Airport",
+    "city": "Mahanoro",
+    "country": "MG",
+    "lat": -19.8330001831,
+    "lon": 48.7999992371
+  },
+  "TNR": {
+    "name": "Ivato Airport",
+    "city": "Antananarivo",
+    "country": "MG",
+    "lat": -18.7968997955,
+    "lon": 47.4788017273
+  },
+  "JVA": {
+    "name": "Ankavandra Airport",
+    "city": "Ankavandra",
+    "country": "MG",
+    "lat": -18.8050095209,
+    "lon": 45.2734673023
+  },
+  "BMD": {
+    "name": "Belo sur Tsiribihina Airport",
+    "city": "Belo sur Tsiribihina",
+    "country": "MG",
+    "lat": -19.6867008209,
+    "lon": 44.5419006348
+  },
+  "ZVA": {
+    "name": "Miandrivazo Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -19.5627994537,
+    "lon": 45.4508018494
+  },
+  "MXT": {
+    "name": "Maintirano Airport",
+    "city": "Maintirano",
+    "country": "MG",
+    "lat": -18.0499992371,
+    "lon": 44.033000946
+  },
+  "ILK": {
+    "name": "Atsinanana Airport",
+    "city": "Ilaka",
+    "country": "MG",
+    "lat": -19.5830001831,
+    "lon": 48.8030014038
+  },
+  "TVA": {
+    "name": "Morafenobe Airport",
+    "city": "Morafenobe",
+    "country": "MG",
+    "lat": -17.850083459,
+    "lon": 44.9204671383
+  },
+  "SMS": {
+    "name": "Sainte Marie Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -17.0939006805,
+    "lon": 49.8157997131
+  },
+  "TMM": {
+    "name": "Toamasina Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -18.109500885,
+    "lon": 49.3925018311
+  },
+  "WTA": {
+    "name": "Tambohorano Airport",
+    "city": "Tambohorano",
+    "country": "MG",
+    "lat": -17.4761009216,
+    "lon": 43.9728012085
+  },
+  "MOQ": {
+    "name": "Morondava Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -20.2847003937,
+    "lon": 44.3176002502
+  },
+  "WTS": {
+    "name": "Tsiroanomandidy Airport",
+    "city": "Tsiroanomandidy",
+    "country": "MG",
+    "lat": -18.7596765564,
+    "lon": 46.0540652275
+  },
+  "VAT": {
+    "name": "Vatomandry Airport",
+    "city": "Vatomandry",
+    "country": "MG",
+    "lat": -19.383333,
+    "lon": 48.95
+  },
+  "WAM": {
+    "name": "Ambatondrazaka Airport",
+    "city": "Ambatondrazaka",
+    "country": "MG",
+    "lat": -17.7953776085,
+    "lon": 48.4425830841
+  },
+  "DIE": {
+    "name": "Arrachart Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -12.3493995667,
+    "lon": 49.2916984558
+  },
+  "WMR": {
+    "name": "Mananara Nord Airport",
+    "city": "Mananara Nord",
+    "country": "MG",
+    "lat": -16.1639003754,
+    "lon": 49.7737998962
+  },
+  "ZWA": {
+    "name": "Andapa Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -14.6517000198,
+    "lon": 49.6206016541
+  },
+  "AMB": {
+    "name": "Ambilobe Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -13.1884002686,
+    "lon": 48.9879989624
+  },
+  "WBD": {
+    "name": "Avaratra Airport",
+    "city": "Befandriana",
+    "country": "MG",
+    "lat": -15.1999998093,
+    "lon": 48.483001709
+  },
+  "WPB": {
+    "name": "Port Berge Airport",
+    "city": "Port Berge",
+    "country": "MG",
+    "lat": -15.5842864741,
+    "lon": 47.6235866547
+  },
+  "ANM": {
+    "name": "Antsirabato Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -14.9994001389,
+    "lon": 50.3202018738
+  },
+  "IVA": {
+    "name": "Ambanja Airport",
+    "city": "Ambanja",
+    "country": "MG",
+    "lat": -13.6457053132,
+    "lon": 48.4594273567
+  },
+  "HVA": {
+    "name": "Analalava Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -14.629699707,
+    "lon": 47.7638015747
+  },
+  "MJN": {
+    "name": "Amborovy Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -15.6668417421,
+    "lon": 46.3512325287
+  },
+  "NOS": {
+    "name": "Fascene Airport",
+    "city": "Nosy Be",
+    "country": "MG",
+    "lat": -13.3121004105,
+    "lon": 48.3148002625
+  },
+  "DWB": {
+    "name": "Soalala Airport",
+    "city": "Soalala",
+    "country": "MG",
+    "lat": -16.1016904207,
+    "lon": 45.3588366508
+  },
+  "WMP": {
+    "name": "Mampikony Airport",
+    "city": "Mampikony",
+    "country": "MG",
+    "lat": -16.0722693402,
+    "lon": 47.6441645622
+  },
+  "BPY": {
+    "name": "Besalampy Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -16.7445302965,
+    "lon": 44.4824838638
+  },
+  "WMN": {
+    "name": "Maroantsetra Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -15.4366998672,
+    "lon": 49.6883010864
+  },
+  "SVB": {
+    "name": "Sambava Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -14.2785997391,
+    "lon": 50.1747016907
+  },
+  "TTS": {
+    "name": "Tsaratanana Airport",
+    "city": "Tsaratanana",
+    "country": "MG",
+    "lat": -16.7510643983,
+    "lon": 47.6190161705
+  },
+  "VOH": {
+    "name": "Vohimarina Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -13.3758001328,
+    "lon": 50.0027999878
+  },
+  "WAI": {
+    "name": "Ambalabe Airport",
+    "city": "Antsohihy",
+    "country": "MG",
+    "lat": -14.8987998962,
+    "lon": 47.9939002991
+  },
+  "WMA": {
+    "name": "Mandritsara Airport",
+    "city": "Mandritsara",
+    "country": "MG",
+    "lat": -15.8330494086,
+    "lon": 48.8332843781
+  },
+  "WBO": {
+    "name": "Antsoa Airport",
+    "city": "Beroroha",
+    "country": "MG",
+    "lat": -21.6069837647,
+    "lon": 45.1360201836
+  },
+  "WMD": {
+    "name": "Mandabe Airport",
+    "city": "Mandabe",
+    "country": "MG",
+    "lat": -21.0463049303,
+    "lon": 44.9404120445
+  },
+  "FTU": {
+    "name": "Tolanaro Airport",
+    "city": "Tolanaro",
+    "country": "MG",
+    "lat": -25.0380992889,
+    "lon": 46.9561004639
+  },
+  "WFI": {
+    "name": "Fianarantsoa Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -21.4416007996,
+    "lon": 47.1116981506
+  },
+  "RVA": {
+    "name": "Farafangana Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -22.8052997589,
+    "lon": 47.8205986023
+  },
+  "IHO": {
+    "name": "Ihosy Airport",
+    "city": "Ihosy",
+    "country": "MG",
+    "lat": -22.4047202024,
+    "lon": 46.1649370193
+  },
+  "MJA": {
+    "name": "Manja Airport",
+    "city": "Manja",
+    "country": "MG",
+    "lat": -21.4261052506,
+    "lon": 44.31650877
+  },
+  "WVK": {
+    "name": "Manakara Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -22.1196994781,
+    "lon": 48.0217018127
+  },
+  "OVA": {
+    "name": "Bekily Airport",
+    "city": "Bekily",
+    "country": "MG",
+    "lat": -24.2356947547,
+    "lon": 45.3045272827
+  },
+  "MNJ": {
+    "name": "Mananjary Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -21.2017993927,
+    "lon": 48.3582992554
+  },
+  "TDV": {
+    "name": "Samangoky Airport",
+    "city": "Tanandava",
+    "country": "MG",
+    "lat": -21.7000007629,
+    "lon": 43.733001709
+  },
+  "MXM": {
+    "name": "Morombe Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -21.753900528,
+    "lon": 43.3754997253
+  },
+  "TLE": {
+    "name": "Toliara Airport",
+    "city": "",
+    "country": "MG",
+    "lat": -23.3833999634,
+    "lon": 43.7285003662
+  },
+  "VND": {
+    "name": "Vangaindrano Airport",
+    "city": "Vangaindrano",
+    "country": "MG",
+    "lat": -23.3507665915,
+    "lon": 47.5817012787
+  },
+  "BKU": {
+    "name": "Betioky Airport",
+    "city": "Betioky",
+    "country": "MG",
+    "lat": -23.7329998016,
+    "lon": 44.388999939
+  },
+  "AMP": {
+    "name": "Ampanihy Airport",
+    "city": "Ampanihy",
+    "country": "MG",
+    "lat": -24.6996994019,
+    "lon": 44.7341995239
+  },
+  "WAK": {
+    "name": "Ankazoabo Airport",
+    "city": "Ankazoabo",
+    "country": "MG",
+    "lat": -22.2964423522,
+    "lon": 44.5315361023
+  },
+  "AZZ": {
+    "name": "Ambriz Airport",
+    "city": "Ambriz",
+    "country": "AO",
+    "lat": -7.8622198105,
+    "lon": 13.1161003113
+  },
+  "SSY": {
+    "name": "Mbanza Congo Airport",
+    "city": "Mbanza Congo",
+    "country": "AO",
+    "lat": -6.2698998451,
+    "lon": 14.2469997406
+  },
+  "BUG": {
+    "name": "Benguela Airport",
+    "city": "Benguela",
+    "country": "AO",
+    "lat": -12.609000206,
+    "lon": 13.4036998749
+  },
+  "NBJ": {
+    "name": "Dr. Antonio Agostinho Neto International Airport",
+    "city": "Luanda",
+    "country": "AO",
+    "lat": -9.046778,
+    "lon": 13.507194
+  },
+  "CAB": {
+    "name": "Cabinda Airport",
+    "city": "Cabinda",
+    "country": "AO",
+    "lat": -5.5969901085,
+    "lon": 12.1884002686
+  },
+  "CFF": {
+    "name": "Cafunfo Airport",
+    "city": "Cafunfo",
+    "country": "AO",
+    "lat": -8.7836103439,
+    "lon": 17.9897003174
+  },
+  "PGI": {
+    "name": "Chitato Airport",
+    "city": "Chitato",
+    "country": "AO",
+    "lat": -7.3588900566,
+    "lon": 20.8047008514
+  },
+  "CBT": {
+    "name": "Catumbela Airport",
+    "city": "Catumbela",
+    "country": "AO",
+    "lat": -12.4792003632,
+    "lon": 13.4869003296
+  },
+  "CTI": {
+    "name": "Cuito Cuanavale Airport",
+    "city": "Cuito Cuanavale",
+    "country": "AO",
+    "lat": -15.1603002548,
+    "lon": 19.1560993195
+  },
+  "CXM": {
+    "name": "Camaxilo Airport",
+    "city": "Camaxilo",
+    "country": "AO",
+    "lat": -8.3736095428,
+    "lon": 18.9235992432
+  },
+  "CAV": {
+    "name": "Cazombo Airport",
+    "city": "Cazombo",
+    "country": "AO",
+    "lat": -11.8930997849,
+    "lon": 22.9164009094
+  },
+  "DUE": {
+    "name": "Dundo Airport",
+    "city": "Chitato",
+    "country": "AO",
+    "lat": -7.4008898735,
+    "lon": 20.8185005188
+  },
+  "VPE": {
+    "name": "Ngjiva Pereira Airport",
+    "city": "Ngiva",
+    "country": "AO",
+    "lat": -17.0435009003,
+    "lon": 15.6837997437
+  },
+  "NOV": {
+    "name": "Nova Lisboa Airport",
+    "city": "Huambo",
+    "country": "AO",
+    "lat": -12.8088998795,
+    "lon": 15.7604999542
+  },
+  "SVP": {
+    "name": "Kuito Airport",
+    "city": "Kuito",
+    "country": "AO",
+    "lat": -12.4046001434,
+    "lon": 16.9473991394
+  },
+  "LLT": {
+    "name": "Lobito Airport",
+    "city": "Lobito",
+    "country": "AO",
+    "lat": -12.3711996078,
+    "lon": 13.5366001129
+  },
+  "LBZ": {
+    "name": "Lucapa Airport",
+    "city": "Lucapa",
+    "country": "AO",
+    "lat": -8.4457273483,
+    "lon": 20.7320861816
+  },
+  "LAD": {
+    "name": "Quatro De Fevereiro Airport",
+    "city": "Luanda",
+    "country": "AO",
+    "lat": -8.8583698273,
+    "lon": 13.2312002182
+  },
+  "LZM": {
+    "name": "Luzamba Airport",
+    "city": "Luzamba",
+    "country": "AO",
+    "lat": -9.1159601212,
+    "lon": 18.0492992401
+  },
+  "MEG": {
+    "name": "Malanje Airport",
+    "city": "Malanje",
+    "country": "AO",
+    "lat": -9.5250902176,
+    "lon": 16.3124008179
+  },
+  "SPP": {
+    "name": "Menongue Airport",
+    "city": "Menongue",
+    "country": "AO",
+    "lat": -14.6576004028,
+    "lon": 17.7198009491
+  },
+  "MSZ": {
+    "name": "Namibe Airport",
+    "city": "Namibe",
+    "country": "AO",
+    "lat": -15.2611999512,
+    "lon": 12.1468000412
+  },
+  "GXG": {
+    "name": "Negage Airport",
+    "city": "Negage",
+    "country": "AO",
+    "lat": -7.7545099258,
+    "lon": 15.2876996994
+  },
+  "PBN": {
+    "name": "Porto Amboim Airport",
+    "city": "Port Amboim",
+    "country": "AO",
+    "lat": -10.7220001221,
+    "lon": 13.7655000687
+  },
+  "VHC": {
+    "name": "Saurimo Airport",
+    "city": "Saurimo",
+    "country": "AO",
+    "lat": -9.6890697479,
+    "lon": 20.4319000244
+  },
+  "SZA": {
+    "name": "Soyo Airport",
+    "city": "Soyo",
+    "country": "AO",
+    "lat": -6.1410899162,
+    "lon": 12.3718004227
+  },
+  "NDD": {
+    "name": "Sumbe Airport",
+    "city": "Sumbe",
+    "country": "AO",
+    "lat": -11.1679000854,
+    "lon": 13.8474998474
+  },
+  "UAL": {
+    "name": "Luau Airport",
+    "city": "Luau",
+    "country": "AO",
+    "lat": -10.7158002853,
+    "lon": 22.2311000824
+  },
+  "SDD": {
+    "name": "Lubango Airport",
+    "city": "Lubango",
+    "country": "AO",
+    "lat": -14.9246997833,
+    "lon": 13.5749998093
+  },
+  "LUO": {
+    "name": "Luena Airport",
+    "city": "Luena",
+    "country": "AO",
+    "lat": -11.7680997849,
+    "lon": 19.8976993561
+  },
+  "UGO": {
+    "name": "Uige Airport",
+    "city": "Uige",
+    "country": "AO",
+    "lat": -7.6030697823,
+    "lon": 15.0277996063
+  },
+  "CEO": {
+    "name": "Waco Kungo Airport",
+    "city": "Waco Kungo",
+    "country": "AO",
+    "lat": -11.4264001846,
+    "lon": 15.1014003754
+  },
+  "XGN": {
+    "name": "Xangongo Airport",
+    "city": "Xangongo",
+    "country": "AO",
+    "lat": -16.755399704,
+    "lon": 14.9652996063
+  },
+  "ARZ": {
+    "name": "N'zeto Airport",
+    "city": "N'zeto",
+    "country": "AO",
+    "lat": -7.2594399452,
+    "lon": 12.8631000519
+  },
+  "NZA": {
+    "name": "Nzagi Airport",
+    "city": "Nzagi",
+    "country": "AO",
+    "lat": -7.7169399262,
+    "lon": 21.3582000732
+  },
+  "AKE": {
+    "name": "Akiéni Airport",
+    "city": "Akiéni",
+    "country": "GA",
+    "lat": -1.133333,
+    "lon": 13.9
+  },
+  "BGB": {
+    "name": "Booue Airport",
+    "city": "Booue",
+    "country": "GA",
+    "lat": -0.1000000015,
+    "lon": 11.9499998093
+  },
+  "KDN": {
+    "name": "Ndende Airport",
+    "city": "Ndende",
+    "country": "GA",
+    "lat": -2.4000000954,
+    "lon": 11.3669996262
+  },
+  "FOU": {
+    "name": "Fougamou Airport",
+    "city": "Fougamou",
+    "country": "GA",
+    "lat": -1.2829999924,
+    "lon": 10.6169996262
+  },
+  "MBC": {
+    "name": "M'Bigou Airport",
+    "city": "M'Bigou",
+    "country": "GA",
+    "lat": -1.8830000162,
+    "lon": 11.9329996109
+  },
+  "MGX": {
+    "name": "Moabi Airport",
+    "city": "Moabi",
+    "country": "GA",
+    "lat": -2.4330000877,
+    "lon": 11
+  },
+  "KDJ": {
+    "name": "Ville Airport",
+    "city": "N'Djole",
+    "country": "GA",
+    "lat": -0.1829999983,
+    "lon": 10.75
+  },
+  "KOU": {
+    "name": "Koulamoutou Airport",
+    "city": "Koulamoutou",
+    "country": "GA",
+    "lat": -1.1846100092,
+    "lon": 12.4413003922
+  },
+  "MJL": {
+    "name": "Mouilla Ville Airport",
+    "city": "Mouila",
+    "country": "GA",
+    "lat": -1.8451399803,
+    "lon": 11.0566997528
+  },
+  "OYE": {
+    "name": "Oyem Airport",
+    "city": "Oyem",
+    "country": "GA",
+    "lat": 1.543110013,
+    "lon": 11.5813999176
+  },
+  "OKN": {
+    "name": "Okondja Airport",
+    "city": "Okondja",
+    "country": "GA",
+    "lat": -0.6652140021,
+    "lon": 13.6731004715
+  },
+  "LBQ": {
+    "name": "Lambarene Airport",
+    "city": "Lambarene",
+    "country": "GA",
+    "lat": -0.7043889761,
+    "lon": 10.2456998825
+  },
+  "MVX": {
+    "name": "Minvoul Airport",
+    "city": "Minvoul",
+    "country": "GA",
+    "lat": 2.1500000954,
+    "lon": 12.1330003738
+  },
+  "BMM": {
+    "name": "Bitam Airport",
+    "city": "Bitam",
+    "country": "GA",
+    "lat": 2.0756399632,
+    "lon": 11.4932003021
+  },
+  "MFF": {
+    "name": "Moanda Airport",
+    "city": "Moanda",
+    "country": "GA",
+    "lat": -1.5329999924,
+    "lon": 13.2670001984
+  },
+  "MKB": {
+    "name": "Mekambo Airport",
+    "city": "Mekambo",
+    "country": "GA",
+    "lat": 1.0169999599,
+    "lon": 13.9329996109
+  },
+  "POG": {
+    "name": "Port Gentil Airport",
+    "city": "Port Gentil",
+    "country": "GA",
+    "lat": -0.7117390037,
+    "lon": 8.7543802261
+  },
+  "OMB": {
+    "name": "Omboue Hopital Airport",
+    "city": "Omboue",
+    "country": "GA",
+    "lat": -1.5747300386,
+    "lon": 9.2626895905
+  },
+  "MKU": {
+    "name": "Makokou Airport",
+    "city": "Makokou",
+    "country": "GA",
+    "lat": 0.5792109966,
+    "lon": 12.8908996582
+  },
+  "LBV": {
+    "name": "Leon M Ba Airport",
+    "city": "Libreville",
+    "country": "GA",
+    "lat": 0.4586000144,
+    "lon": 9.4122800827
+  },
+  "MZC": {
+    "name": "Mitzic Airport",
+    "city": "Mitzic",
+    "country": "GA",
+    "lat": 0.7829999924,
+    "lon": 11.5500001907
+  },
+  "MVB": {
+    "name": "M'Vengue El Hadj Omar Bongo Ondimba International Airport",
+    "city": "Franceville",
+    "country": "GA",
+    "lat": -1.656159997,
+    "lon": 13.4379997253
+  },
+  "LTL": {
+    "name": "Lastourville Airport",
+    "city": "Lastourville",
+    "country": "GA",
+    "lat": -0.8266670108,
+    "lon": 12.7486000061
+  },
+  "ZKM": {
+    "name": "Sette Cama Airport",
+    "city": "Sette Cama",
+    "country": "GA",
+    "lat": -2.5329999924,
+    "lon": 9.7670001984
+  },
+  "TCH": {
+    "name": "Tchibanga Airport",
+    "city": "Tchibanga",
+    "country": "GA",
+    "lat": -2.8499999046,
+    "lon": 11.0170001984
+  },
+  "MYB": {
+    "name": "Mayumba Airport",
+    "city": "Mayumba",
+    "country": "GA",
+    "lat": -3.4584197998,
+    "lon": 10.6740760803
+  },
+  "ANO": {
+    "name": "Angoche Airport",
+    "city": "Angoche",
+    "country": "MZ",
+    "lat": -16.1818695068,
+    "lon": 39.9452171326
+  },
+  "BEW": {
+    "name": "Beira Airport",
+    "city": "Beira",
+    "country": "MZ",
+    "lat": -19.7964000702,
+    "lon": 34.9076004028
+  },
+  "FXO": {
+    "name": "Cuamba Airport",
+    "city": "Cuamba",
+    "country": "MZ",
+    "lat": -14.8149995804,
+    "lon": 36.5299987793
+  },
+  "VPY": {
+    "name": "Chimoio Airport",
+    "city": "Chimoio",
+    "country": "MZ",
+    "lat": -19.1513004303,
+    "lon": 33.4290008545
+  },
+  "IHC": {
+    "name": "Inhaca Airport",
+    "city": "Inhaca",
+    "country": "MZ",
+    "lat": -25.9971446991,
+    "lon": 32.9293518066
+  },
+  "INH": {
+    "name": "Inhambane Airport",
+    "city": "Inhambabe",
+    "country": "MZ",
+    "lat": -23.8763999939,
+    "lon": 35.4085006714
+  },
+  "VXC": {
+    "name": "Lichinga Airport",
+    "city": "Lichinga",
+    "country": "MZ",
+    "lat": -13.2740001678,
+    "lon": 35.2663002014
+  },
+  "LFB": {
+    "name": "Lumbo Airport",
+    "city": "Lumbo",
+    "country": "MZ",
+    "lat": -15.0331001282,
+    "lon": 40.6716995239
+  },
+  "MPM": {
+    "name": "Maputo Airport",
+    "city": "Maputo",
+    "country": "MZ",
+    "lat": -25.9207992554,
+    "lon": 32.5726013184
+  },
+  "MUD": {
+    "name": "Mueda Airport",
+    "city": "Mueda",
+    "country": "MZ",
+    "lat": -11.6729001999,
+    "lon": 39.5630989075
+  },
+  "MZB": {
+    "name": "Mocimboa da Praia Airport",
+    "city": "Mocimboa da Praia",
+    "country": "MZ",
+    "lat": -11.3618001938,
+    "lon": 40.3549003601
+  },
+  "MNC": {
+    "name": "Nacala Airport",
+    "city": "Nacala",
+    "country": "MZ",
+    "lat": -14.4882001877,
+    "lon": 40.7122001648
+  },
+  "APL": {
+    "name": "Nampula Airport",
+    "city": "Nampula",
+    "country": "MZ",
+    "lat": -15.1056003571,
+    "lon": 39.2817993164
+  },
+  "POL": {
+    "name": "Pemba Airport",
+    "city": "Pemba / Porto Amelia",
+    "country": "MZ",
+    "lat": -12.9917621613,
+    "lon": 40.5240135193
+  },
+  "PDD": {
+    "name": "Ponta do Ouro Airport",
+    "city": "Ponta do Ouro",
+    "country": "MZ",
+    "lat": -26.8285522461,
+    "lon": 32.8377075195
+  },
+  "UEL": {
+    "name": "Quelimane Airport",
+    "city": "Quelimane",
+    "country": "MZ",
+    "lat": -17.8554992676,
+    "lon": 36.8690986633
+  },
+  "TET": {
+    "name": "Chingozi Airport",
+    "city": "Tete",
+    "country": "MZ",
+    "lat": -16.1047992706,
+    "lon": 33.6402015686
+  },
+  "VNX": {
+    "name": "Vilankulo Airport",
+    "city": "Vilanculo",
+    "country": "MZ",
+    "lat": -22.0184001923,
+    "lon": 35.3133010864
+  },
+  "VJB": {
+    "name": "Xai-Xai Airport",
+    "city": "Xai-Xai",
+    "country": "MZ",
+    "lat": -25.0377998352,
+    "lon": 33.6273994446
+  },
+  "DES": {
+    "name": "Desroches Airport",
+    "city": "Desroches Island",
+    "country": "SC",
+    "lat": -5.6967,
+    "lon": 53.6558
+  },
+  "SEZ": {
+    "name": "Seychelles International Airport",
+    "city": "Mahe Island",
+    "country": "SC",
+    "lat": -4.6743397713,
+    "lon": 55.5218009949
+  },
+  "PRI": {
+    "name": "Praslin Airport",
+    "city": "Praslin Island",
+    "country": "SC",
+    "lat": -4.3192901611,
+    "lon": 55.6913986206
+  },
+  "BDI": {
+    "name": "Bird Island Airport",
+    "city": "Bird Island",
+    "country": "SC",
+    "lat": -3.72472,
+    "lon": 55.205299
+  },
+  "DEI": {
+    "name": "Denis Island Airport",
+    "city": "Denis Island",
+    "country": "SC",
+    "lat": -3.80222,
+    "lon": 55.666901
+  },
+  "FRK": {
+    "name": "Fregate Island Airport",
+    "city": "Fregate Island",
+    "country": "SC",
+    "lat": -4.583,
+    "lon": 55.950001
+  },
+  "SRH": {
+    "name": "Sarh Airport",
+    "city": "Sarh",
+    "country": "TD",
+    "lat": 9.1444396973,
+    "lon": 18.3743991852
+  },
+  "OGR": {
+    "name": "Bongor Airport",
+    "city": "Bongor",
+    "country": "TD",
+    "lat": 10.2881002426,
+    "lon": 15.3810997009
+  },
+  "AEH": {
+    "name": "Abeche Airport",
+    "city": "",
+    "country": "TD",
+    "lat": 13.8470001221,
+    "lon": 20.8442993164
+  },
+  "MQQ": {
+    "name": "Moundou Airport",
+    "city": "",
+    "country": "TD",
+    "lat": 8.6244096756,
+    "lon": 16.0713996887
+  },
+  "LTC": {
+    "name": "Lai Airport",
+    "city": "Lai",
+    "country": "TD",
+    "lat": 9.3999996185,
+    "lon": 16.2999992371
+  },
+  "ATV": {
+    "name": "Ati Airport",
+    "city": "Ati",
+    "country": "TD",
+    "lat": 13.2389001846,
+    "lon": 18.3132991791
+  },
+  "NDJ": {
+    "name": "N'Djamena International Airport",
+    "city": "N'Djamena",
+    "country": "TD",
+    "lat": 12.1337003708,
+    "lon": 15.0340003967
+  },
+  "BKR": {
+    "name": "Bokoro Airport",
+    "city": "Bokoro",
+    "country": "TD",
+    "lat": 12.3830003738,
+    "lon": 17.0669994354
+  },
+  "OTC": {
+    "name": "Bol Airport",
+    "city": "Bol",
+    "country": "TD",
+    "lat": 13.4433002472,
+    "lon": 14.73939991
+  },
+  "MVO": {
+    "name": "Mongo Airport",
+    "city": "Mongo",
+    "country": "TD",
+    "lat": 12.1669998169,
+    "lon": 18.6749992371
+  },
+  "AMC": {
+    "name": "Am Timan Airport",
+    "city": "Am Timan",
+    "country": "TD",
+    "lat": 11.0340003967,
+    "lon": 20.2740001678
+  },
+  "PLF": {
+    "name": "Pala Airport",
+    "city": "Pala",
+    "country": "TD",
+    "lat": 9.3780603409,
+    "lon": 14.9250001907
+  },
+  "OUT": {
+    "name": "Bousso Airport",
+    "city": "Bousso",
+    "country": "TD",
+    "lat": 10.4829998016,
+    "lon": 16.716999054
+  },
+  "AMO": {
+    "name": "Mao Airport",
+    "city": "Mao",
+    "country": "TD",
+    "lat": 14.1456003189,
+    "lon": 15.3143997192
+  },
+  "FYT": {
+    "name": "Faya Largeau Airport",
+    "city": "",
+    "country": "TD",
+    "lat": 17.9171009064,
+    "lon": 19.1110992432
+  },
+  "BUQ": {
+    "name": "Joshua Mqabuko Nkomo International Airport",
+    "city": "Bulawayo",
+    "country": "ZW",
+    "lat": -20.0174007416,
+    "lon": 28.6179008484
+  },
+  "CHJ": {
+    "name": "Chipinge Airport",
+    "city": "Chipinge",
+    "country": "ZW",
+    "lat": -20.2066993713,
+    "lon": 32.6282997131
+  },
+  "BFO": {
+    "name": "Buffalo Range Airport",
+    "city": "Chiredzi",
+    "country": "ZW",
+    "lat": -21.0081005096,
+    "lon": 31.5785999298
+  },
+  "VFA": {
+    "name": "Victoria Falls International Airport",
+    "city": "Victoria Falls",
+    "country": "ZW",
+    "lat": -18.0958995819,
+    "lon": 25.8390007019
+  },
+  "HRE": {
+    "name": "Harare International Airport",
+    "city": "Harare",
+    "country": "ZW",
+    "lat": -17.9318008423,
+    "lon": 31.0928001404
+  },
+  "KAB": {
+    "name": "Kariba International Airport",
+    "city": "Kariba",
+    "country": "ZW",
+    "lat": -16.5198001862,
+    "lon": 28.8850002289
+  },
+  "UTA": {
+    "name": "Mutare Airport",
+    "city": "",
+    "country": "ZW",
+    "lat": -18.9974994659,
+    "lon": 32.6272010803
+  },
+  "MVZ": {
+    "name": "Masvingo International Airport",
+    "city": "Masvingo",
+    "country": "ZW",
+    "lat": -20.0552997589,
+    "lon": 30.8591003418
+  },
+  "GWE": {
+    "name": "Thornhill Air Base",
+    "city": "Gweru",
+    "country": "ZW",
+    "lat": -19.4363994598,
+    "lon": 29.8619003296
+  },
+  "HWN": {
+    "name": "Hwange National Park Airport",
+    "city": "Hwange",
+    "country": "ZW",
+    "lat": -18.6298999786,
+    "lon": 27.0209999084
+  },
+  "WKI": {
+    "name": "Hwange Airport",
+    "city": "Hwange",
+    "country": "ZW",
+    "lat": -18.3624992371,
+    "lon": 26.5167007446
+  },
+  "CEH": {
+    "name": "Chelinda Malawi Airport",
+    "city": "",
+    "country": "MW",
+    "lat": -10.5500001907,
+    "lon": 33.7999992371
+  },
+  "BLZ": {
+    "name": "Chileka International Airport",
+    "city": "Blantyre",
+    "country": "MW",
+    "lat": -15.6791000366,
+    "lon": 34.9739990234
+  },
+  "CMK": {
+    "name": "Club Makokola Airport",
+    "city": "Club Makokola",
+    "country": "MW",
+    "lat": -14.3069000244,
+    "lon": 35.1324996948
+  },
+  "DWA": {
+    "name": "Dwangwa Airport",
+    "city": "Dwangwa",
+    "country": "MW",
+    "lat": -12.5183000565,
+    "lon": 34.1319007874
+  },
+  "KGJ": {
+    "name": "Karonga Airport",
+    "city": "Karonga",
+    "country": "MW",
+    "lat": -9.9535703659,
+    "lon": 33.8930015564
+  },
+  "KBQ": {
+    "name": "Kasungu Airport",
+    "city": "Kasungu",
+    "country": "MW",
+    "lat": -13.0145998001,
+    "lon": 33.4686012268
+  },
+  "LLW": {
+    "name": "Lilongwe International Airport",
+    "city": "Lilongwe",
+    "country": "MW",
+    "lat": -13.7894001007,
+    "lon": 33.78099823
+  },
+  "LIX": {
+    "name": "Likoma Island Airport",
+    "city": "Likoma Island",
+    "country": "MW",
+    "lat": -12.0830001831,
+    "lon": 34.733001709
+  },
+  "MAI": {
+    "name": "Mangochi Airport",
+    "city": "Mangochi",
+    "country": "MW",
+    "lat": -14.4829998016,
+    "lon": 35.266998291
+  },
+  "MYZ": {
+    "name": "Monkey Bay Airport",
+    "city": "Monkey Bay",
+    "country": "MW",
+    "lat": -14.0836000443,
+    "lon": 34.9197006226
+  },
+  "LMB": {
+    "name": "Salima Airport",
+    "city": "Salima",
+    "country": "MW",
+    "lat": -13.7558927025,
+    "lon": 34.5841884613
+  },
+  "ZZU": {
+    "name": "Mzuzu Airport",
+    "city": "Mzuzu",
+    "country": "MW",
+    "lat": -11.4447002411,
+    "lon": 34.0117988586
+  },
+  "LEF": {
+    "name": "Lebakeng Airport",
+    "city": "Lebakeng",
+    "country": "LS",
+    "lat": -29.8908004761,
+    "lon": 28.6555995941
+  },
+  "LRB": {
+    "name": "Leribe Airport",
+    "city": "Leribe",
+    "country": "LS",
+    "lat": -28.8556003571,
+    "lon": 28.0527992249
+  },
+  "LES": {
+    "name": "Lesobeng Airport",
+    "city": "Lesobeng",
+    "country": "LS",
+    "lat": -29.7828998566,
+    "lon": 28.3166999817
+  },
+  "MSG": {
+    "name": "Matsaile Airport",
+    "city": "Matsaile",
+    "country": "LS",
+    "lat": -29.8405990601,
+    "lon": 28.7763996124
+  },
+  "MFC": {
+    "name": "Mafeteng Airport",
+    "city": "Mafeteng",
+    "country": "LS",
+    "lat": -29.8010997772,
+    "lon": 27.2436008453
+  },
+  "MKH": {
+    "name": "Mokhotlong Airport",
+    "city": "Mokhotlong",
+    "country": "LS",
+    "lat": -29.2817993164,
+    "lon": 29.0727996826
+  },
+  "MSU": {
+    "name": "Moshoeshoe I International Airport",
+    "city": "Maseru",
+    "country": "LS",
+    "lat": -29.4622993469,
+    "lon": 27.5524997711
+  },
+  "NKU": {
+    "name": "Nkaus Airport",
+    "city": "Nkaus",
+    "country": "LS",
+    "lat": -30.0216999054,
+    "lon": 28.1968994141
+  },
+  "PEL": {
+    "name": "Pelaneng Airport",
+    "city": "Pelaneng",
+    "country": "LS",
+    "lat": -29.1205997467,
+    "lon": 28.5053005219
+  },
+  "UTG": {
+    "name": "Quthing Airport",
+    "city": "Quthing",
+    "country": "LS",
+    "lat": -30.4074993134,
+    "lon": 27.6933002472
+  },
+  "UNE": {
+    "name": "Qacha's Nek Airport",
+    "city": "Qacha's Nek",
+    "country": "LS",
+    "lat": -30.111700058,
+    "lon": 28.6718997955
+  },
+  "SHK": {
+    "name": "Sehonghong Airport",
+    "city": "Sehonghong",
+    "country": "LS",
+    "lat": -29.7308998108,
+    "lon": 28.7688999176
+  },
+  "SKQ": {
+    "name": "Sekakes Airport",
+    "city": "Sekakes",
+    "country": "LS",
+    "lat": -30.0389003754,
+    "lon": 28.370300293
+  },
+  "SOK": {
+    "name": "Semonkong Airport",
+    "city": "Semonkong",
+    "country": "LS",
+    "lat": -29.8386001587,
+    "lon": 28.0599994659
+  },
+  "SHZ": {
+    "name": "Seshutes Airport",
+    "city": "Seshutes",
+    "country": "LS",
+    "lat": -29.2675991058,
+    "lon": 28.5522994995
+  },
+  "THB": {
+    "name": "Thaba-Tseka Airport",
+    "city": "Thaba-Tseka",
+    "country": "LS",
+    "lat": -29.5228004456,
+    "lon": 28.6158008575
+  },
+  "TKO": {
+    "name": "Tlokoeng Airport",
+    "city": "Tlokoeng",
+    "country": "LS",
+    "lat": -29.2329998016,
+    "lon": 28.8829994202
+  },
+  "ADI": {
+    "name": "Arandis Airport",
+    "city": "Arandis",
+    "country": "NA",
+    "lat": -22.4622001648,
+    "lon": 14.9799995422
+  },
+  "GOG": {
+    "name": "Gobabis Airport",
+    "city": "Gobabis",
+    "country": "NA",
+    "lat": -22.5044002533,
+    "lon": 18.9731006622
+  },
+  "GFY": {
+    "name": "Grootfontein Airport",
+    "city": "Grootfontein",
+    "country": "NA",
+    "lat": -19.6021995544,
+    "lon": 18.1226997375
+  },
+  "MPA": {
+    "name": "Katima Mulilo Airport",
+    "city": "Mpacha",
+    "country": "NA",
+    "lat": -17.6343994141,
+    "lon": 24.176700592
+  },
+  "KMP": {
+    "name": "Keetmanshoop Airport",
+    "city": "Keetmanshoop",
+    "country": "NA",
+    "lat": -26.5398006439,
+    "lon": 18.1114006042
+  },
+  "LHU": {
+    "name": "Lianshulu Airport",
+    "city": "Muneambuanas",
+    "country": "NA",
+    "lat": -18.1166992188,
+    "lon": 23.3932991028
+  },
+  "LUD": {
+    "name": "Luderitz Airport",
+    "city": "Luderitz",
+    "country": "NA",
+    "lat": -26.6874008179,
+    "lon": 15.2428998947
+  },
+  "MJO": {
+    "name": "Mount Etjo Airport",
+    "city": "",
+    "country": "NA",
+    "lat": -21.0233001709,
+    "lon": 16.4528007507
+  },
+  "OKU": {
+    "name": "Mokuti Lodge Airport",
+    "city": "Mokuti Lodge",
+    "country": "NA",
+    "lat": -18.8127994537,
+    "lon": 17.0594005585
+  },
+  "NNI": {
+    "name": "Namutoni Airport",
+    "city": "Namutoni",
+    "country": "NA",
+    "lat": -18.8064002991,
+    "lon": 16.9272003174
+  },
+  "OND": {
+    "name": "Ondangwa Airport",
+    "city": "Ondangwa",
+    "country": "NA",
+    "lat": -17.878200531,
+    "lon": 15.9525995255
+  },
+  "OMG": {
+    "name": "Omega Airport",
+    "city": "Omega",
+    "country": "NA",
+    "lat": -18.0303001404,
+    "lon": 22.189699173
+  },
+  "OMD": {
+    "name": "Oranjemund Airport",
+    "city": "Oranjemund",
+    "country": "NA",
+    "lat": -28.5846996307,
+    "lon": 16.4466991425
+  },
+  "OKF": {
+    "name": "Okaukuejo Airport",
+    "city": "Okaukuejo",
+    "country": "NA",
+    "lat": -19.1492004395,
+    "lon": 15.9118995667
+  },
+  "OTJ": {
+    "name": "Otjiwarongo Airport",
+    "city": "Otjiwarongo",
+    "country": "NA",
+    "lat": -20.4347000122,
+    "lon": 16.6608009338
+  },
+  "NDU": {
+    "name": "Rundu Airport",
+    "city": "Rundu",
+    "country": "NA",
+    "lat": -17.9564990997,
+    "lon": 19.7194004059
+  },
+  "RHN": {
+    "name": "Skorpion Mine Airport",
+    "city": "Rosh Pinah",
+    "country": "NA",
+    "lat": -27.8763999939,
+    "lon": 16.6478004456
+  },
+  "SWP": {
+    "name": "Swakopmund Airport",
+    "city": "Swakopmund",
+    "country": "NA",
+    "lat": -22.6618995667,
+    "lon": 14.5680999756
+  },
+  "SZM": {
+    "name": "Sesriem Airstrip",
+    "city": "",
+    "country": "NA",
+    "lat": -24.5128002167,
+    "lon": 15.7467002869
+  },
+  "TSB": {
+    "name": "Tsumeb Airport",
+    "city": "Tsumeb",
+    "country": "NA",
+    "lat": -19.2618999481,
+    "lon": 17.7325000763
+  },
+  "WVB": {
+    "name": "Walvis Bay Airport",
+    "city": "Walvis Bay",
+    "country": "NA",
+    "lat": -22.9799003601,
+    "lon": 14.6452999115
+  },
+  "ERS": {
+    "name": "Eros Airport",
+    "city": "Windhoek",
+    "country": "NA",
+    "lat": -22.6121997833,
+    "lon": 17.0804004669
+  },
+  "WDH": {
+    "name": "Hosea Kutako International Airport",
+    "city": "Windhoek",
+    "country": "NA",
+    "lat": -22.4799003601,
+    "lon": 17.4708995819
+  },
+  "FIH": {
+    "name": "Ndjili International Airport",
+    "city": "Kinshasa",
+    "country": "CD",
+    "lat": -4.3857498169,
+    "lon": 15.4446001053
+  },
+  "NLO": {
+    "name": "Ndolo Airport",
+    "city": "",
+    "country": "CD",
+    "lat": -4.3266601563,
+    "lon": 15.3275003433
+  },
+  "MNB": {
+    "name": "Muanda Airport",
+    "city": "",
+    "country": "CD",
+    "lat": -5.9308600426,
+    "lon": 12.3517999649
+  },
+  "BOA": {
+    "name": "Boma Airport",
+    "city": "Boma",
+    "country": "CD",
+    "lat": -5.8540000916,
+    "lon": 13.0640001297
+  },
+  "LZI": {
+    "name": "Luozi Airport",
+    "city": "Luozi",
+    "country": "CD",
+    "lat": -4.9499998093,
+    "lon": 14.1330003738
+  },
+  "MAT": {
+    "name": "Tshimpi Airport",
+    "city": "Matadi",
+    "country": "CD",
+    "lat": -5.7996101379,
+    "lon": 13.4404001236
+  },
+  "NKL": {
+    "name": "Nkolo Fuma Airport",
+    "city": "Nkolo Fuma",
+    "country": "CD",
+    "lat": -5.4499998093,
+    "lon": 14.8330001831
+  },
+  "INO": {
+    "name": "Inongo Airport",
+    "city": "Inongo",
+    "country": "CD",
+    "lat": -1.9472199678,
+    "lon": 18.2858009338
+  },
+  "NIO": {
+    "name": "Nioki Airport",
+    "city": "Nioki",
+    "country": "CD",
+    "lat": -2.7174999714,
+    "lon": 17.6847000122
+  },
+  "FDU": {
+    "name": "Bandundu Airport",
+    "city": "",
+    "country": "CD",
+    "lat": -3.3113200665,
+    "lon": 17.3817005157
+  },
+  "KRZ": {
+    "name": "Basango Mboliasa Airport",
+    "city": "Kiri",
+    "country": "CD",
+    "lat": -1.4349999428,
+    "lon": 19.0240001678
+  },
+  "KKW": {
+    "name": "Kikwit Airport",
+    "city": "",
+    "country": "CD",
+    "lat": -5.0357699394,
+    "lon": 18.7856006622
+  },
+  "IDF": {
+    "name": "Idiofa Airport",
+    "city": "Idiofa",
+    "country": "CD",
+    "lat": -5,
+    "lon": 19.6000003815
+  },
+  "LUS": {
+    "name": "Lusanga Airport",
+    "city": "Lusanga",
+    "country": "CD",
+    "lat": -4.8000001907,
+    "lon": 18.716999054
+  },
+  "MSM": {
+    "name": "Masi Manimba Airport",
+    "city": "Masi Manimba",
+    "country": "CD",
+    "lat": -4.7829999924,
+    "lon": 17.8500003815
+  },
+  "MDK": {
+    "name": "Mbandaka Airport",
+    "city": "Mbandaka",
+    "country": "CD",
+    "lat": 0.0226000007,
+    "lon": 18.2887001038
+  },
+  "BSU": {
+    "name": "Basankusu Airport",
+    "city": "Basankusu",
+    "country": "CD",
+    "lat": 1.2247200012,
+    "lon": 19.7889003754
+  },
+  "LIE": {
+    "name": "Libenge Airport",
+    "city": "Libenge",
+    "country": "CD",
+    "lat": 3.632999897,
+    "lon": 18.6329994202
+  },
+  "BDT": {
+    "name": "Gbadolite Airport",
+    "city": "",
+    "country": "CD",
+    "lat": 4.2532100677,
+    "lon": 20.9752998352
+  },
+  "GMA": {
+    "name": "Gemena Airport",
+    "city": "Gemena",
+    "country": "CD",
+    "lat": 3.2353699207,
+    "lon": 19.7712993622
+  },
+  "KLI": {
+    "name": "Kotakoli Airport",
+    "city": "",
+    "country": "CD",
+    "lat": 4.1576399803,
+    "lon": 21.6508998871
+  },
+  "BMB": {
+    "name": "Bumbar Airport",
+    "city": "Bumbar",
+    "country": "CD",
+    "lat": 2.1827800274,
+    "lon": 22.4817008972
+  },
+  "LIQ": {
+    "name": "Lisala Airport",
+    "city": "Lisala",
+    "country": "CD",
+    "lat": 2.170984,
+    "lon": 21.497129
+  },
+  "BNB": {
+    "name": "Boende Airport",
+    "city": "Boende",
+    "country": "CD",
+    "lat": -0.2169999927,
+    "lon": 20.8500003815
+  },
+  "IKL": {
+    "name": "Ikela Airport",
+    "city": "Ikela",
+    "country": "CD",
+    "lat": -1.2000000477,
+    "lon": 23.283000946
+  },
+  "FKI": {
+    "name": "Bangoka International Airport",
+    "city": "Kisangani",
+    "country": "CD",
+    "lat": 0.4816389978,
+    "lon": 25.3379993439
+  },
+  "YAN": {
+    "name": "Yangambi Airport",
+    "city": "Yangambi",
+    "country": "CD",
+    "lat": 0.7829999924,
+    "lon": 24.466999054
+  },
+  "IRP": {
+    "name": "Matari Airport",
+    "city": "",
+    "country": "CD",
+    "lat": 2.8276100159,
+    "lon": 27.588300705
+  },
+  "BUX": {
+    "name": "Bunia Airport",
+    "city": "",
+    "country": "CD",
+    "lat": 1.5657199621,
+    "lon": 30.2208003998
+  },
+  "BZU": {
+    "name": "Buta Zega Airport",
+    "city": "",
+    "country": "CD",
+    "lat": 2.8183500767,
+    "lon": 24.7936992645
+  },
+  "BKY": {
+    "name": "Bukavu Kavumu Airport",
+    "city": "",
+    "country": "CD",
+    "lat": -2.3089799881,
+    "lon": 28.8087997437
+  },
+  "RUE": {
+    "name": "Rughenda Airfield",
+    "city": "Butembo",
+    "country": "CD",
+    "lat": 0.117142,
+    "lon": 29.312992
+  },
+  "GOM": {
+    "name": "Goma International Airport",
+    "city": "Goma",
+    "country": "CD",
+    "lat": -1.6708099842,
+    "lon": 29.2385005951
+  },
+  "BNC": {
+    "name": "Beni Airport",
+    "city": "Beni",
+    "country": "CD",
+    "lat": 0.5749999881,
+    "lon": 29.4738998413
+  },
+  "KND": {
+    "name": "Kindu Airport",
+    "city": "Kindu",
+    "country": "CD",
+    "lat": -2.9191799164,
+    "lon": 25.9153995514
+  },
+  "KLY": {
+    "name": "Kinkungwa Airport",
+    "city": "Kalima",
+    "country": "CD",
+    "lat": -2.5780000687,
+    "lon": 26.7339992523
+  },
+  "KGN": {
+    "name": "Kasongo Airport",
+    "city": "Kasongo",
+    "country": "CD",
+    "lat": -4.5329999924,
+    "lon": 26.6170005798
+  },
+  "PUN": {
+    "name": "Punia Airport",
+    "city": "Punia",
+    "country": "CD",
+    "lat": -1.3669999838,
+    "lon": 26.3330001831
+  },
+  "FBM": {
+    "name": "Lubumbashi International Airport",
+    "city": "Lubumbashi",
+    "country": "CD",
+    "lat": -11.5913000107,
+    "lon": 27.5308990479
+  },
+  "PWO": {
+    "name": "Pweto Airport",
+    "city": "Pweto",
+    "country": "CD",
+    "lat": -8.4670000076,
+    "lon": 28.8829994202
+  },
+  "KEC": {
+    "name": "Kasenga Airport",
+    "city": "Kasenga",
+    "country": "CD",
+    "lat": -10.3500003815,
+    "lon": 28.6329994202
+  },
+  "KWZ": {
+    "name": "Kolwezi Airport",
+    "city": "",
+    "country": "CD",
+    "lat": -10.7658996582,
+    "lon": 25.5056991577
+  },
+  "MNO": {
+    "name": "Manono Airport",
+    "city": "Manono",
+    "country": "CD",
+    "lat": -7.2888898849,
+    "lon": 27.3943996429
+  },
+  "BDV": {
+    "name": "Moba Airport",
+    "city": "Moba",
+    "country": "CD",
+    "lat": -7.0669999123,
+    "lon": 29.783000946
+  },
+  "FMI": {
+    "name": "Kalemie Airport",
+    "city": "",
+    "country": "CD",
+    "lat": -5.8755598068,
+    "lon": 29.25
+  },
+  "KBO": {
+    "name": "Kabalo Airport",
+    "city": "Kabalo",
+    "country": "CD",
+    "lat": -6.0830001831,
+    "lon": 26.9169998169
+  },
+  "KOO": {
+    "name": "Kongolo Airport",
+    "city": "Kongolo",
+    "country": "CD",
+    "lat": -5.3944401741,
+    "lon": 26.9899997711
+  },
+  "KMN": {
+    "name": "Ville Airport",
+    "city": "Kamina",
+    "country": "CD",
+    "lat": -8.7286100388,
+    "lon": 24.991399765
+  },
+  "KAP": {
+    "name": "Kapanga Airport",
+    "city": "Kapanga",
+    "country": "CD",
+    "lat": -8.3500003815,
+    "lon": 22.5830001831
+  },
+  "KNM": {
+    "name": "Kaniama Airport",
+    "city": "Kaniama",
+    "country": "CD",
+    "lat": -7.5830001831,
+    "lon": 24.1499996185
+  },
+  "KGA": {
+    "name": "Kananga Airport",
+    "city": "Kananga",
+    "country": "CD",
+    "lat": -5.9000501633,
+    "lon": 22.4692001343
+  },
+  "LZA": {
+    "name": "Luiza Airport",
+    "city": "Luiza",
+    "country": "CD",
+    "lat": -7.1830000877,
+    "lon": 22.3999996185
+  },
+  "TSH": {
+    "name": "Tshikapa Airport",
+    "city": "Tshikapa",
+    "country": "CD",
+    "lat": -6.4383301735,
+    "lon": 20.7947006226
+  },
+  "LJA": {
+    "name": "Lodja Airport",
+    "city": "Lodja",
+    "country": "CD",
+    "lat": -3.4170000553,
+    "lon": 23.4500007629
+  },
+  "LBO": {
+    "name": "Lusambo Airport",
+    "city": "Lusambo",
+    "country": "CD",
+    "lat": -4.9616699219,
+    "lon": 23.3782997131
+  },
+  "MEW": {
+    "name": "Mweka Airport",
+    "city": "Mweka",
+    "country": "CD",
+    "lat": -4.8499999046,
+    "lon": 21.5499992371
+  },
+  "BAN": {
+    "name": "Basongo Airport",
+    "city": "Basongo",
+    "country": "CD",
+    "lat": -4.3169999123,
+    "lon": 20.4330005646
+  },
+  "PFR": {
+    "name": "Ilebo Airport",
+    "city": "Ilebo",
+    "country": "CD",
+    "lat": -4.3330001831,
+    "lon": 20.5830001831
+  },
+  "MJM": {
+    "name": "Mbuji Mayi Airport",
+    "city": "Mbuji Mayi",
+    "country": "CD",
+    "lat": -6.121240139,
+    "lon": 23.5690002441
+  },
+  "GDJ": {
+    "name": "Gandajika Airport",
+    "city": "Gandajika",
+    "country": "CD",
+    "lat": -6.7329998016,
+    "lon": 23.9500007629
+  },
+  "KBN": {
+    "name": "Tunta Airport",
+    "city": "Kabinda",
+    "country": "CD",
+    "lat": -6.132999897,
+    "lon": 24.4829998016
+  },
+  "BKO": {
+    "name": "Senou Airport",
+    "city": "Senou",
+    "country": "ML",
+    "lat": 12.5334997177,
+    "lon": -7.9499402046
+  },
+  "GUD": {
+    "name": "Goundam Airport",
+    "city": "Goundam",
+    "country": "ML",
+    "lat": 16.3614006042,
+    "lon": -3.5997200012
+  },
+  "GAQ": {
+    "name": "Gao Airport",
+    "city": "",
+    "country": "ML",
+    "lat": 16.2483997345,
+    "lon": -0.0054560001
+  },
+  "KNZ": {
+    "name": "Kenieba Airport",
+    "city": "Kenieba",
+    "country": "ML",
+    "lat": 12.8330001831,
+    "lon": -11.25
+  },
+  "KTX": {
+    "name": "Koutiala Airport",
+    "city": "Koutiala",
+    "country": "ML",
+    "lat": 12.3830003738,
+    "lon": -5.4670000076
+  },
+  "KYS": {
+    "name": "Kayes Dag Dag Airport",
+    "city": "",
+    "country": "ML",
+    "lat": 14.4812002182,
+    "lon": -11.4043998718
+  },
+  "MZI": {
+    "name": "Ambodedjo Airport",
+    "city": "",
+    "country": "ML",
+    "lat": 14.5128002167,
+    "lon": -4.079559803
+  },
+  "NRM": {
+    "name": "Nara Airport",
+    "city": "Nara",
+    "country": "ML",
+    "lat": 15.2170000076,
+    "lon": -7.2670001984
+  },
+  "NIX": {
+    "name": "Nioro du Sahel Airport",
+    "city": "Nioro du Sahel",
+    "country": "ML",
+    "lat": 15.2381000519,
+    "lon": -9.5761098862
+  },
+  "KSS": {
+    "name": "Sikasso Airport",
+    "city": "Sikasso",
+    "country": "ML",
+    "lat": 11.3330001831,
+    "lon": -5.6999998093
+  },
+  "TOM": {
+    "name": "Timbuktu Airport",
+    "city": "Timbuktu",
+    "country": "ML",
+    "lat": 16.7304992676,
+    "lon": -3.0075800419
+  },
+  "EYL": {
+    "name": "Yelimane Airport",
+    "city": "Yelimane",
+    "country": "ML",
+    "lat": 15.1330003738,
+    "lon": -10.5670003891
+  },
+  "AGA": {
+    "name": "Al Massira Airport",
+    "city": "Agadir",
+    "country": "MA",
+    "lat": 30.3250007629,
+    "lon": -9.413069725
+  },
+  "TTA": {
+    "name": "Tan Tan Airport",
+    "city": "Tan Tan",
+    "country": "MA",
+    "lat": 28.4482002258,
+    "lon": -11.1612997055
+  },
+  "OZG": {
+    "name": "Zagora Airport",
+    "city": "Zagora",
+    "country": "MA",
+    "lat": 30.3202991486,
+    "lon": -5.8666701317
+  },
+  "UAR": {
+    "name": "Bouarfa Airport",
+    "city": "Bouarfa",
+    "country": "MA",
+    "lat": 32.5143055556,
+    "lon": -1.9830555556
+  },
+  "FEZ": {
+    "name": "Saiss Airport",
+    "city": "Fes",
+    "country": "MA",
+    "lat": 33.9272994995,
+    "lon": -4.9779601097
+  },
+  "ERH": {
+    "name": "Moulay Ali Cherif Airport",
+    "city": "Errachidia",
+    "country": "MA",
+    "lat": 31.9475002289,
+    "lon": -4.3983302116
+  },
+  "MEK": {
+    "name": "Bassatine Airport",
+    "city": "Meknes",
+    "country": "MA",
+    "lat": 33.8791007996,
+    "lon": -5.5151200294
+  },
+  "OUD": {
+    "name": "Angads Airport",
+    "city": "Oujda",
+    "country": "MA",
+    "lat": 34.7872009277,
+    "lon": -1.9239900112
+  },
+  "SMW": {
+    "name": "Smara Airport",
+    "city": "Smara",
+    "country": "EH",
+    "lat": 26.7318000793,
+    "lon": -11.6847000122
+  },
+  "GMD": {
+    "name": "Ben Slimane Airport",
+    "city": "Ben Slimane",
+    "country": "MA",
+    "lat": 33.6553993225,
+    "lon": -7.221449852
+  },
+  "CAS": {
+    "name": "Anfa Airport",
+    "city": "Casablanca",
+    "country": "MA",
+    "lat": 33.5532989502,
+    "lon": -7.6613898277
+  },
+  "BEM": {
+    "name": "Beni Mellal Airport",
+    "city": "",
+    "country": "MA",
+    "lat": 32.4000015259,
+    "lon": -6.3333301544
+  },
+  "RBA": {
+    "name": "Rabat-Sale Airport",
+    "city": "Rabat",
+    "country": "MA",
+    "lat": 34.0514984131,
+    "lon": -6.7515201569
+  },
+  "SII": {
+    "name": "Sidi Ifni Xx Airport",
+    "city": "Sidi Ifni",
+    "country": "MA",
+    "lat": 29.3666992188,
+    "lon": -10.1878004074
+  },
+  "VIL": {
+    "name": "Dakhla Airport",
+    "city": "Dakhla",
+    "country": "EH",
+    "lat": 23.7182998657,
+    "lon": -15.9320001602
+  },
+  "ESU": {
+    "name": "Mogador Airport",
+    "city": "Essaouira",
+    "country": "MA",
+    "lat": 31.3974990845,
+    "lon": -9.6816701889
+  },
+  "EUN": {
+    "name": "Hassan I Airport",
+    "city": "El Aaiun",
+    "country": "EH",
+    "lat": 27.1516990662,
+    "lon": -13.2192001343
+  },
+  "CMN": {
+    "name": "Mohammed V International Airport",
+    "city": "Casablanca",
+    "country": "MA",
+    "lat": 33.3675003052,
+    "lon": -7.5899701118
+  },
+  "SFI": {
+    "name": "Safi Airport",
+    "city": "Safi",
+    "country": "MA",
+    "lat": 32.2832984924,
+    "lon": -9.2333297729
+  },
+  "NDR": {
+    "name": "Nador International Airport",
+    "city": "Nador",
+    "country": "MA",
+    "lat": 34.9888000488,
+    "lon": -3.0282099247
+  },
+  "RAK": {
+    "name": "Menara Airport",
+    "city": "Marrakech",
+    "country": "MA",
+    "lat": 31.6068992615,
+    "lon": -8.0362997055
+  },
+  "NNA": {
+    "name": "Kenitra Airport",
+    "city": "",
+    "country": "MA",
+    "lat": 34.2989006042,
+    "lon": -6.5958800316
+  },
+  "OZZ": {
+    "name": "Ouarzazate Airport",
+    "city": "Ouarzazate",
+    "country": "MA",
+    "lat": 30.9391002655,
+    "lon": -6.909430027
+  },
+  "AHU": {
+    "name": "Cherif Al Idrissi Airport",
+    "city": "Al Hoceima",
+    "country": "MA",
+    "lat": 35.1771011353,
+    "lon": -3.8395199776
+  },
+  "TTU": {
+    "name": "Saniat Rmel Airport",
+    "city": "",
+    "country": "MA",
+    "lat": 35.5942993164,
+    "lon": -5.3200201988
+  },
+  "TNG": {
+    "name": "Ibn Batouta Airport",
+    "city": "Tangier",
+    "country": "MA",
+    "lat": 35.7268981934,
+    "lon": -5.9168901444
+  },
+  "AEO": {
+    "name": "Aioun el Atrouss Airport",
+    "city": "Aioun El Atrouss",
+    "country": "MR",
+    "lat": 16.7112998962,
+    "lon": -9.6378803253
+  },
+  "OTL": {
+    "name": "Boutilimit Airport",
+    "city": "Boutilimit",
+    "country": "MR",
+    "lat": 17.533000946,
+    "lon": -14.6829996109
+  },
+  "THI": {
+    "name": "Tichitt Airport",
+    "city": "Tichitt",
+    "country": "MR",
+    "lat": 18.4500007629,
+    "lon": -9.5170001984
+  },
+  "TIY": {
+    "name": "Tidjikja Airport",
+    "city": "Tidjikja",
+    "country": "MR",
+    "lat": 18.5701007843,
+    "lon": -11.423500061
+  },
+  "BGH": {
+    "name": "Abbaye Airport",
+    "city": "Boghe",
+    "country": "MR",
+    "lat": 16.6333141327,
+    "lon": -14.2000007629
+  },
+  "KFA": {
+    "name": "Kiffa Airport",
+    "city": "Kiffa",
+    "country": "MR",
+    "lat": 16.5900001526,
+    "lon": -11.4062004089
+  },
+  "TMD": {
+    "name": "Timbedra Airport",
+    "city": "Timbedra",
+    "country": "MR",
+    "lat": 16.2329998016,
+    "lon": -8.1669998169
+  },
+  "EMN": {
+    "name": "Nema Airport",
+    "city": "Nema",
+    "country": "MR",
+    "lat": 16.6219997406,
+    "lon": -7.3165998459
+  },
+  "AJJ": {
+    "name": "Akjoujt Airport",
+    "city": "Akjoujt",
+    "country": "MR",
+    "lat": 19.7330169678,
+    "lon": -14.3832492828
+  },
+  "KED": {
+    "name": "Kaedi Airport",
+    "city": "Kaedi",
+    "country": "MR",
+    "lat": 16.1595001221,
+    "lon": -13.5075998306
+  },
+  "MOM": {
+    "name": "Letfotar Airport",
+    "city": "Moudjeria",
+    "country": "MR",
+    "lat": 17.75,
+    "lon": -12.5
+  },
+  "NKC": {
+    "name": "Nouakchott International Airport",
+    "city": "Nouakchott",
+    "country": "MR",
+    "lat": 18.0981998444,
+    "lon": -15.9484996796
+  },
+  "SEY": {
+    "name": "Selibaby Airport",
+    "city": "Selibaby",
+    "country": "MR",
+    "lat": 15.1796998978,
+    "lon": -12.2073001862
+  },
+  "THT": {
+    "name": "Tamchakett Airport",
+    "city": "Tamchakett",
+    "country": "MR",
+    "lat": 17.2329998016,
+    "lon": -10.8170003891
+  },
+  "ATR": {
+    "name": "Atar International Airport",
+    "city": "Atar",
+    "country": "MR",
+    "lat": 20.5067996979,
+    "lon": -13.0431995392
+  },
+  "FGD": {
+    "name": "Fderik Airport",
+    "city": "Fderik",
+    "country": "MR",
+    "lat": 22.6669998169,
+    "lon": -12.7329998016
+  },
+  "NDB": {
+    "name": "Nouadhibou International Airport",
+    "city": "Nouadhibou",
+    "country": "MR",
+    "lat": 20.9330997467,
+    "lon": -17.0300006866
+  },
+  "OUZ": {
+    "name": "Tazadit Airport",
+    "city": "Zouerate",
+    "country": "MR",
+    "lat": 22.7563991547,
+    "lon": -12.4835996628
+  },
+  "ADD": {
+    "name": "Bole International Airport",
+    "city": "Addis Ababa",
+    "country": "ET",
+    "lat": 8.9778900147,
+    "lon": 38.7993011475
+  },
+  "AMH": {
+    "name": "Arba Minch Airport",
+    "city": "",
+    "country": "ET",
+    "lat": 6.0393900871,
+    "lon": 37.5904998779
+  },
+  "AXU": {
+    "name": "Axum Airport",
+    "city": "",
+    "country": "ET",
+    "lat": 14.1468000412,
+    "lon": 38.7728004456
+  },
+  "BCO": {
+    "name": "Baco Airport",
+    "city": "Baco",
+    "country": "ET",
+    "lat": 5.7828698158,
+    "lon": 36.5620002747
+  },
+  "BJR": {
+    "name": "Bahir Dar Airport",
+    "city": "Bahir Dar",
+    "country": "ET",
+    "lat": 11.6080999374,
+    "lon": 37.3216018677
+  },
+  "BEI": {
+    "name": "Beica Airport",
+    "city": "Beica",
+    "country": "ET",
+    "lat": 9.3863897324,
+    "lon": 34.521900177
+  },
+  "DSE": {
+    "name": "Combolcha Airport",
+    "city": "Dessie",
+    "country": "ET",
+    "lat": 11.0825004578,
+    "lon": 39.7113990784
+  },
+  "DEM": {
+    "name": "Dembidollo Airport",
+    "city": "Dembidollo",
+    "country": "ET",
+    "lat": 8.5539999008,
+    "lon": 34.858001709
+  },
+  "DBM": {
+    "name": "Debra Marcos Airport",
+    "city": "Debra Marcos",
+    "country": "ET",
+    "lat": 10.3500003815,
+    "lon": 37.716999054
+  },
+  "DIR": {
+    "name": "Aba Tenna Dejazmach Yilma International Airport",
+    "city": "Dire Dawa",
+    "country": "ET",
+    "lat": 9.6246995926,
+    "lon": 41.8541984558
+  },
+  "DBT": {
+    "name": "Debre Tabor Airport",
+    "city": "Debre Tabor",
+    "country": "ET",
+    "lat": 11.9670000076,
+    "lon": 38
+  },
+  "FNH": {
+    "name": "Fincha Airport",
+    "city": "Fincha",
+    "country": "ET",
+    "lat": 9.5830001831,
+    "lon": 37.3499984741
+  },
+  "GOB": {
+    "name": "Robe Airport",
+    "city": "Goba",
+    "country": "ET",
+    "lat": 7.0170001984,
+    "lon": 40
+  },
+  "GNN": {
+    "name": "Ghinnir Airport",
+    "city": "Ghinnir",
+    "country": "ET",
+    "lat": 7.1500000954,
+    "lon": 40.716999054
+  },
+  "GMB": {
+    "name": "Gambella Airport",
+    "city": "Gambela",
+    "country": "ET",
+    "lat": 8.1287603378,
+    "lon": 34.5630989075
+  },
+  "GDQ": {
+    "name": "Gonder Airport",
+    "city": "Gondar",
+    "country": "ET",
+    "lat": 12.519900322,
+    "lon": 37.4339981079
+  },
+  "GDE": {
+    "name": "Gode Airport",
+    "city": "Gode",
+    "country": "ET",
+    "lat": 5.9351301193,
+    "lon": 43.5786018372
+  },
+  "GOR": {
+    "name": "Gore Airport",
+    "city": "Gore",
+    "country": "ET",
+    "lat": 8.1614,
+    "lon": 35.5529
+  },
+  "QHR": {
+    "name": "Harar Meda Airport",
+    "city": "Debre Zeyit",
+    "country": "ET",
+    "lat": 8.7163,
+    "lon": 39.0059
+  },
+  "HUE": {
+    "name": "Humera Airport",
+    "city": "Humera",
+    "country": "ET",
+    "lat": 14.25,
+    "lon": 36.5830001831
+  },
+  "JIJ": {
+    "name": "Jijiga Airport",
+    "city": "Jijiga",
+    "country": "ET",
+    "lat": 9.330833,
+    "lon": 42.911111
+  },
+  "JIM": {
+    "name": "Jimma Airport",
+    "city": "Jimma",
+    "country": "ET",
+    "lat": 7.6660900116,
+    "lon": 36.8166007996
+  },
+  "ABK": {
+    "name": "Kabri Dehar Airport",
+    "city": "Kabri Dehar",
+    "country": "ET",
+    "lat": 6.734000206,
+    "lon": 44.2529983521
+  },
+  "LFO": {
+    "name": "Kelafo East Airport",
+    "city": "Kelafo",
+    "country": "ET",
+    "lat": 5.6570000648,
+    "lon": 44.3499984741
+  },
+  "AWA": {
+    "name": "Awassa Airport",
+    "city": "Awassa",
+    "country": "ET",
+    "lat": 7.0669999123,
+    "lon": 38.5
+  },
+  "LLI": {
+    "name": "Lalibella Airport",
+    "city": "Lalibela",
+    "country": "ET",
+    "lat": 11.9750003815,
+    "lon": 38.9799995422
+  },
+  "TUJ": {
+    "name": "Tume Airport",
+    "city": "Maji",
+    "country": "ET",
+    "lat": 5.8330001831,
+    "lon": 35.533000946
+  },
+  "MQX": {
+    "name": "Mekele Airport",
+    "city": "",
+    "country": "ET",
+    "lat": 13.4673995972,
+    "lon": 39.5335006714
+  },
+  "MZX": {
+    "name": "Masslo Airport",
+    "city": "Masslo",
+    "country": "ET",
+    "lat": 6.4080600739,
+    "lon": 39.7238998413
+  },
+  "ETE": {
+    "name": "Metema Airport",
+    "city": "Metema",
+    "country": "ET",
+    "lat": 12.9329996109,
+    "lon": 36.1669998169
+  },
+  "NDM": {
+    "name": "Mendi Airport",
+    "city": "Mendi",
+    "country": "ET",
+    "lat": 9.7670001984,
+    "lon": 35.0999984741
+  },
+  "MTF": {
+    "name": "Mizan Teferi Airport",
+    "city": "Mizan Teferi",
+    "country": "ET",
+    "lat": 6.9571,
+    "lon": 35.5547
+  },
+  "NEJ": {
+    "name": "Nejjo Airport",
+    "city": "Nejjo",
+    "country": "ET",
+    "lat": 9.5500001907,
+    "lon": 35.466999054
+  },
+  "NEK": {
+    "name": "Nekemte Airport",
+    "city": "Nekemte",
+    "country": "ET",
+    "lat": 9.0500001907,
+    "lon": 36.5999984741
+  },
+  "SHC": {
+    "name": "Shire Airport",
+    "city": "Shire",
+    "country": "ET",
+    "lat": 14.079444,
+    "lon": 38.270833
+  },
+  "SXU": {
+    "name": "Soddu Airport",
+    "city": "Soddu",
+    "country": "ET",
+    "lat": 6.8169999123,
+    "lon": 37.75
+  },
+  "SZE": {
+    "name": "Semera Airport",
+    "city": "Semera",
+    "country": "ET",
+    "lat": 11.7875,
+    "lon": 40.991667
+  },
+  "ASO": {
+    "name": "Asosa Airport",
+    "city": "Asosa",
+    "country": "ET",
+    "lat": 10.0185003281,
+    "lon": 34.5862998962
+  },
+  "TIE": {
+    "name": "Tippi Airport",
+    "city": "Tippi",
+    "country": "ET",
+    "lat": 7.2024,
+    "lon": 35.415
+  },
+  "WAC": {
+    "name": "Waca Airport",
+    "city": "Waca",
+    "country": "ET",
+    "lat": 7.1669998169,
+    "lon": 37.1669998169
+  },
+  "BJM": {
+    "name": "Bujumbura International Airport",
+    "city": "Bujumbura",
+    "country": "BI",
+    "lat": -3.3240199089,
+    "lon": 29.3185005188
+  },
+  "GID": {
+    "name": "Gitega Airport",
+    "city": "Gitega",
+    "country": "BI",
+    "lat": -3.4172093868,
+    "lon": 29.9113082886
+  },
+  "KRE": {
+    "name": "Kirundo Airport",
+    "city": "Kirundo",
+    "country": "BI",
+    "lat": -2.544772,
+    "lon": 30.094575
+  },
+  "AAD": {
+    "name": "Adado Airport",
+    "city": "Adado",
+    "country": "SO",
+    "lat": 6.095833,
+    "lon": 46.6375
+  },
+  "ALU": {
+    "name": "Alula Airport",
+    "city": "Alula",
+    "country": "SO",
+    "lat": 11.9582,
+    "lon": 50.748
+  },
+  "BIB": {
+    "name": "Baidoa Airport",
+    "city": "Baidoa",
+    "country": "SO",
+    "lat": 3.1022200584,
+    "lon": 43.6286010742
+  },
+  "CXN": {
+    "name": "Candala Airport",
+    "city": "Candala",
+    "country": "SO",
+    "lat": 11.5,
+    "lon": 49.9169998169
+  },
+  "BSY": {
+    "name": "Bardera Airport",
+    "city": "",
+    "country": "SO",
+    "lat": 2.336111,
+    "lon": 42.307778
+  },
+  "HCM": {
+    "name": "Eil Airport",
+    "city": "Eil",
+    "country": "SO",
+    "lat": 7.9169998169,
+    "lon": 49.7999992371
+  },
+  "BSA": {
+    "name": "Bosaso Airport",
+    "city": "Bosaso",
+    "country": "SO",
+    "lat": 11.2753000259,
+    "lon": 49.1493988037
+  },
+  "GSR": {
+    "name": "Gardo Airport",
+    "city": "Gardo",
+    "country": "SO",
+    "lat": 9.5170001984,
+    "lon": 49.0830001831
+  },
+  "HGA": {
+    "name": "Egal International Airport",
+    "city": "Hargeisa",
+    "country": "SO",
+    "lat": 9.5181703568,
+    "lon": 44.0887985229
+  },
+  "BBO": {
+    "name": "Berbera Airport",
+    "city": "Berbera",
+    "country": "SO",
+    "lat": 10.3892002106,
+    "lon": 44.9411010742
+  },
+  "KMU": {
+    "name": "Kisimayu Airport",
+    "city": "",
+    "country": "SO",
+    "lat": -0.3773530126,
+    "lon": 42.4592018127
+  },
+  "MGQ": {
+    "name": "Aden Adde International Airport",
+    "city": "Mogadishu",
+    "country": "SO",
+    "lat": 2.0144400597,
+    "lon": 45.3046989441
+  },
+  "CMO": {
+    "name": "Obbia Airport",
+    "city": "Obbia",
+    "country": "SO",
+    "lat": 5.3666667938,
+    "lon": 48.5166664124
+  },
+  "GLK": {
+    "name": "Galcaio Airport",
+    "city": "Galcaio",
+    "country": "SO",
+    "lat": 6.7808299065,
+    "lon": 47.45470047
+  },
+  "CMS": {
+    "name": "Scusciuban Airport",
+    "city": "Scusciuban",
+    "country": "SO",
+    "lat": 10.3000001907,
+    "lon": 50.233001709
+  },
+  "ERA": {
+    "name": "Erigavo Airport",
+    "city": "Erigavo",
+    "country": "SO",
+    "lat": 10.642050549,
+    "lon": 47.3879814148
+  },
+  "BUO": {
+    "name": "Burao Airport",
+    "city": "Burao",
+    "country": "SO",
+    "lat": 9.5275,
+    "lon": 45.5549
+  },
+  "JIB": {
+    "name": "Djibouti-Ambouli Airport",
+    "city": "Djibouti City",
+    "country": "DJ",
+    "lat": 11.5473003387,
+    "lon": 43.1595001221
+  },
+  "AII": {
+    "name": "Ali-Sabieh Airport",
+    "city": "Ali-Sabieh",
+    "country": "DJ",
+    "lat": 11.1468888889,
+    "lon": 42.72
+  },
+  "MHI": {
+    "name": "Moucha Airport",
+    "city": "Moucha Island",
+    "country": "DJ",
+    "lat": 11.7166671753,
+    "lon": 43.2000007629
+  },
+  "OBC": {
+    "name": "Obock Airport",
+    "city": "Obock",
+    "country": "DJ",
+    "lat": 11.9670000076,
+    "lon": 43.266998291
+  },
+  "TDJ": {
+    "name": "Tadjoura Airport",
+    "city": "Tadjoura",
+    "country": "DJ",
+    "lat": 11.7829999924,
+    "lon": 42.9169998169
+  },
+  "SEW": {
+    "name": "Siwa Oasis North Airport",
+    "city": "Siwa",
+    "country": "EG",
+    "lat": 29.345500946,
+    "lon": 25.5067005157
+  },
+  "DBB": {
+    "name": "El Alamein International Airport",
+    "city": "El Alamein",
+    "country": "EG",
+    "lat": 30.9244995117,
+    "lon": 28.4613990784
+  },
+  "AAC": {
+    "name": "El Arish International Airport",
+    "city": "El Arish",
+    "country": "EG",
+    "lat": 31.073299408,
+    "lon": 33.8358001709
+  },
+  "ATZ": {
+    "name": "Assiut International Airport",
+    "city": "Assiut",
+    "country": "EG",
+    "lat": 27.0464992523,
+    "lon": 31.0119991302
+  },
+  "ALY": {
+    "name": "El Nouzha Airport",
+    "city": "Alexandria",
+    "country": "EG",
+    "lat": 31.1839008331,
+    "lon": 29.9489002228
+  },
+  "HBE": {
+    "name": "Borg El Arab International Airport",
+    "city": "Alexandria",
+    "country": "EG",
+    "lat": 30.9176998138,
+    "lon": 29.6963996887
+  },
+  "ABS": {
+    "name": "Abu Simbel Airport",
+    "city": "Abu Simbel",
+    "country": "EG",
+    "lat": 22.3759994507,
+    "lon": 31.611700058
+  },
+  "CAI": {
+    "name": "Cairo International Airport",
+    "city": "Cairo",
+    "country": "EG",
+    "lat": 30.1219005585,
+    "lon": 31.4055995941
+  },
+  "CCE": {
+    "name": "Cairo Capital International Airport",
+    "city": "New Administrative Capital",
+    "country": "EG",
+    "lat": 30.075833,
+    "lon": 31.833333
+  },
+  "CWE": {
+    "name": "Cairo West Airport",
+    "city": "El Cairo",
+    "country": "EG",
+    "lat": 30.116399765,
+    "lon": 30.9153995514
+  },
+  "DAK": {
+    "name": "Dakhla Airport",
+    "city": "",
+    "country": "EG",
+    "lat": 25.4116001129,
+    "lon": 29.0030994415
+  },
+  "HRG": {
+    "name": "Hurghada International Airport",
+    "city": "Hurghada",
+    "country": "EG",
+    "lat": 27.1783008575,
+    "lon": 33.7994003296
+  },
+  "EGH": {
+    "name": "El Gora Airport",
+    "city": "",
+    "country": "EG",
+    "lat": 31.0690002441,
+    "lon": 34.1291999817
+  },
+  "UVL": {
+    "name": "El Kharga Airport",
+    "city": "",
+    "country": "EG",
+    "lat": 25.4736003876,
+    "lon": 30.5907001495
+  },
+  "LXR": {
+    "name": "Luxor International Airport",
+    "city": "Luxor",
+    "country": "EG",
+    "lat": 25.670999527,
+    "lon": 32.7066001892
+  },
+  "RMF": {
+    "name": "Marsa Alam International Airport",
+    "city": "Marsa Alam",
+    "country": "EG",
+    "lat": 25.557100296,
+    "lon": 34.5836982727
+  },
+  "HMB": {
+    "name": "Sohag International Airport",
+    "city": "Sohag",
+    "country": "EG",
+    "lat": 26.3427777778,
+    "lon": 31.7427777778
+  },
+  "MUH": {
+    "name": "Mersa Matruh Airport",
+    "city": "Mersa Matruh",
+    "country": "EG",
+    "lat": 31.3253993988,
+    "lon": 27.2217006683
+  },
+  "GSQ": {
+    "name": "Shark El Oweinat International Airport",
+    "city": "",
+    "country": "EG",
+    "lat": 22.5856990814,
+    "lon": 28.7166004181
+  },
+  "PSD": {
+    "name": "Port Said Airport",
+    "city": "Port Said",
+    "country": "EG",
+    "lat": 31.2793998718,
+    "lon": 32.2400016785
+  },
+  "SKV": {
+    "name": "St Catherine International Airport",
+    "city": "",
+    "country": "EG",
+    "lat": 28.685300827,
+    "lon": 34.0625
+  },
+  "SSH": {
+    "name": "Sharm El Sheikh International Airport",
+    "city": "Sharm el-Sheikh",
+    "country": "EG",
+    "lat": 27.9773006439,
+    "lon": 34.3950004578
+  },
+  "ASW": {
+    "name": "Aswan International Airport",
+    "city": "Aswan",
+    "country": "EG",
+    "lat": 23.9643993378,
+    "lon": 32.8199996948
+  },
+  "SPX": {
+    "name": "Sphinx International Airport",
+    "city": "Giza",
+    "country": "EG",
+    "lat": 30.1147222,
+    "lon": 30.8933333
+  },
+  "TCP": {
+    "name": "Taba International Airport",
+    "city": "Taba",
+    "country": "EG",
+    "lat": 29.5877990723,
+    "lon": 34.7780990601
+  },
+  "ELT": {
+    "name": "El Tor Airport",
+    "city": "",
+    "country": "EG",
+    "lat": 28.2089996338,
+    "lon": 33.6455001831
+  },
+  "ASM": {
+    "name": "Asmara International Airport",
+    "city": "Asmara",
+    "country": "ER",
+    "lat": 15.2918996811,
+    "lon": 38.9107017517
+  },
+  "MSW": {
+    "name": "Massawa International Airport",
+    "city": "Massawa",
+    "country": "ER",
+    "lat": 15.6700000763,
+    "lon": 39.370098114
+  },
+  "ASA": {
+    "name": "Assab International Airport",
+    "city": "Asab",
+    "country": "ER",
+    "lat": 13.0718002319,
+    "lon": 42.6450004578
+  },
+  "TES": {
+    "name": "Tessenei Airport",
+    "city": "Tessenei",
+    "country": "ER",
+    "lat": 15.1169996262,
+    "lon": 36.6829986572
+  },
+  "ASV": {
+    "name": "Amboseli Airport",
+    "city": "Amboseli National Park",
+    "country": "KE",
+    "lat": -2.6450500488,
+    "lon": 37.2531013489
+  },
+  "EDL": {
+    "name": "Eldoret International Airport",
+    "city": "Eldoret",
+    "country": "KE",
+    "lat": 0.4044579864,
+    "lon": 35.238899231
+  },
+  "EYS": {
+    "name": "Eliye Springs Airport",
+    "city": "Eliye Springs",
+    "country": "KE",
+    "lat": 3.2166700363,
+    "lon": 35.9667015076
+  },
+  "KLK": {
+    "name": "Kalokol Airport",
+    "city": "Kalokol",
+    "country": "KE",
+    "lat": 3.4830000401,
+    "lon": 35.8330001831
+  },
+  "GAS": {
+    "name": "Garissa Airport",
+    "city": "Garissa",
+    "country": "KE",
+    "lat": -0.4635080099,
+    "lon": 39.6483001709
+  },
+  "HOA": {
+    "name": "Hola Airport",
+    "city": "Hola",
+    "country": "KE",
+    "lat": -1.5219999552,
+    "lon": 40.0040016174
+  },
+  "NBO": {
+    "name": "Jomo Kenyatta International Airport",
+    "city": "Nairobi",
+    "country": "KE",
+    "lat": -1.319239974,
+    "lon": 36.9277992249
+  },
+  "KEU": {
+    "name": "Keekorok Airport",
+    "city": "Keekorok",
+    "country": "KE",
+    "lat": -1.5829999447,
+    "lon": 35.25
+  },
+  "GGM": {
+    "name": "Kakamega Airport",
+    "city": "Kakamega",
+    "country": "KE",
+    "lat": 0.2713420093,
+    "lon": 34.7873001099
+  },
+  "KIS": {
+    "name": "Kisumu Airport",
+    "city": "Kisumu",
+    "country": "KE",
+    "lat": -0.086139001,
+    "lon": 34.7289009094
+  },
+  "ILU": {
+    "name": "Kilaguni Airport",
+    "city": "Kilaguni",
+    "country": "KE",
+    "lat": -2.9106099606,
+    "lon": 38.0652008057
+  },
+  "KEY": {
+    "name": "Kericho Airport",
+    "city": "Kericho",
+    "country": "KE",
+    "lat": -0.4169999957,
+    "lon": 35.25
+  },
+  "KTL": {
+    "name": "Kitale Airport",
+    "city": "Kitale",
+    "country": "KE",
+    "lat": 0.971988976,
+    "lon": 34.9585990906
+  },
+  "LKG": {
+    "name": "Lokichoggio Airport",
+    "city": "Lokichoggio",
+    "country": "KE",
+    "lat": 4.2041201591,
+    "lon": 34.3482017517
+  },
+  "LOK": {
+    "name": "Lodwar Airport",
+    "city": "Lodwar",
+    "country": "KE",
+    "lat": 3.1219699383,
+    "lon": 35.6086997986
+  },
+  "LAU": {
+    "name": "Manda Airstrip",
+    "city": "Lamu",
+    "country": "KE",
+    "lat": -2.2524199486,
+    "lon": 40.9131011963
+  },
+  "LOY": {
+    "name": "Loyengalani Airport",
+    "city": "Loyengalani",
+    "country": "KE",
+    "lat": 2.75,
+    "lon": 36.716999054
+  },
+  "NDE": {
+    "name": "Mandera Airport",
+    "city": "Mandera",
+    "country": "KE",
+    "lat": 3.9330000877,
+    "lon": 41.8499984741
+  },
+  "RBT": {
+    "name": "Segel Airport",
+    "city": "Marsabit",
+    "country": "KE",
+    "lat": 2.3499999046,
+    "lon": 37.983001709
+  },
+  "JJM": {
+    "name": "Mulika Lodge Airport",
+    "city": "Meru-Kinna",
+    "country": "KE",
+    "lat": 0.165083006,
+    "lon": 38.1951408386
+  },
+  "MYD": {
+    "name": "Malindi Airport",
+    "city": "Malindi",
+    "country": "KE",
+    "lat": -3.2293100357,
+    "lon": 40.1016998291
+  },
+  "MBA": {
+    "name": "Mombasa Moi International Airport",
+    "city": "Mombasa",
+    "country": "KE",
+    "lat": -4.0348300934,
+    "lon": 39.5942001343
+  },
+  "MRE": {
+    "name": "Mara Serena Lodge Airstrip",
+    "city": "Masai Mara",
+    "country": "KE",
+    "lat": -1.406111002,
+    "lon": 35.0080566406
+  },
+  "OYL": {
+    "name": "Moyale Airport",
+    "city": "Moyale (Lower)",
+    "country": "KE",
+    "lat": 3.4697198868,
+    "lon": 39.101398468
+  },
+  "NYE": {
+    "name": "Nyeri Airport",
+    "city": "Nyeri",
+    "country": "KE",
+    "lat": -0.3644140065,
+    "lon": 36.9784851074
+  },
+  "NUU": {
+    "name": "Nakuru Airport",
+    "city": "Nakuru",
+    "country": "KE",
+    "lat": -0.2980670035,
+    "lon": 36.1593017578
+  },
+  "WIL": {
+    "name": "Nairobi Wilson Airport",
+    "city": "Nairobi",
+    "country": "KE",
+    "lat": -1.3217200041,
+    "lon": 36.8148002625
+  },
+  "NYK": {
+    "name": "Nanyuki Airport",
+    "city": "Nanyuki",
+    "country": "KE",
+    "lat": -0.0623988993,
+    "lon": 37.0410079956
+  },
+  "UAS": {
+    "name": "Samburu South Airport",
+    "city": "Samburu South",
+    "country": "KE",
+    "lat": 0.530583024,
+    "lon": 37.5341949463
+  },
+  "UKA": {
+    "name": "Ukunda Airstrip",
+    "city": "Ukunda",
+    "country": "KE",
+    "lat": -4.2933301926,
+    "lon": 39.5710983276
+  },
+  "WJR": {
+    "name": "Wajir Airport",
+    "city": "Wajir",
+    "country": "KE",
+    "lat": 1.7332400084,
+    "lon": 40.0915985107
+  },
+  "SRX": {
+    "name": "Gardabya Airport",
+    "city": "Sirt",
+    "country": "LY",
+    "lat": 31.0634994507,
+    "lon": 16.5949993134
+  },
+  "TOB": {
+    "name": "Gamal Abdel Nasser Airport",
+    "city": "Tobruk",
+    "country": "LY",
+    "lat": 31.861000061,
+    "lon": 23.906999588
+  },
+  "GHT": {
+    "name": "Ghat Airport",
+    "city": "Ghat",
+    "country": "LY",
+    "lat": 25.1455993652,
+    "lon": 10.1426000595
+  },
+  "AKF": {
+    "name": "Kufra Airport",
+    "city": "Kufra",
+    "country": "LY",
+    "lat": 24.1786994934,
+    "lon": 23.313999176
+  },
+  "BEN": {
+    "name": "Benina International Airport",
+    "city": "Benghazi",
+    "country": "LY",
+    "lat": 32.0968017578,
+    "lon": 20.2695007324
+  },
+  "MJI": {
+    "name": "Mitiga Airport",
+    "city": "Tripoli",
+    "country": "LY",
+    "lat": 32.8941001892,
+    "lon": 13.2760000229
+  },
+  "LAQ": {
+    "name": "La Abraq Airport",
+    "city": "Al Bayda'",
+    "country": "LY",
+    "lat": 32.7887001038,
+    "lon": 21.9643001556
+  },
+  "SEB": {
+    "name": "Sabha Airport",
+    "city": "Sabha",
+    "country": "LY",
+    "lat": 26.9869995117,
+    "lon": 14.4724998474
+  },
+  "TIP": {
+    "name": "Tripoli International Airport",
+    "city": "Tripoli",
+    "country": "LY",
+    "lat": 32.6635017395,
+    "lon": 13.1590003967
+  },
+  "LMQ": {
+    "name": "Marsa Brega Airport",
+    "city": "",
+    "country": "LY",
+    "lat": 30.3780994415,
+    "lon": 19.5764007568
+  },
+  "NFR": {
+    "name": "Nafurah 1 Airport",
+    "city": "Nafurah 1",
+    "country": "LY",
+    "lat": 29.2131996155,
+    "lon": 21.5923995972
+  },
+  "HUQ": {
+    "name": "Hon Airport",
+    "city": "",
+    "country": "LY",
+    "lat": 29.1100997925,
+    "lon": 15.9656000137
+  },
+  "LTD": {
+    "name": "Ghadames East Airport",
+    "city": "Ghadames",
+    "country": "LY",
+    "lat": 30.1516990662,
+    "lon": 9.7153100967
+  },
+  "WAX": {
+    "name": "Zwara Airport",
+    "city": "Zuwara",
+    "country": "LY",
+    "lat": 32.9523010254,
+    "lon": 12.0155000687
+  },
+  "GYI": {
+    "name": "Gisenyi Airport",
+    "city": "Gisenyi",
+    "country": "RW",
+    "lat": -1.6771999598,
+    "lon": 29.2588996887
+  },
+  "BTQ": {
+    "name": "Butare Airport",
+    "city": "Butare",
+    "country": "RW",
+    "lat": -2.5958299637,
+    "lon": 29.736700058
+  },
+  "KGL": {
+    "name": "Kigali International Airport",
+    "city": "Kigali",
+    "country": "RW",
+    "lat": -1.9686299563,
+    "lon": 30.1394996643
+  },
+  "RHG": {
+    "name": "Ruhengeri Airport",
+    "city": "Ruhengeri",
+    "country": "RW",
+    "lat": -1.5,
+    "lon": 29.6329994202
+  },
+  "KME": {
+    "name": "Kamembe Airport",
+    "city": "Kamembe",
+    "country": "RW",
+    "lat": -2.4622399807,
+    "lon": 28.9078998566
+  },
+  "ATB": {
+    "name": "Atbara Airport",
+    "city": "Atbara",
+    "country": "SD",
+    "lat": 17.7103443146,
+    "lon": 34.05701828
+  },
+  "EDB": {
+    "name": "El Debba Airport",
+    "city": "El Debba",
+    "country": "SD",
+    "lat": 18.0249996185,
+    "lon": 30.9582996368
+  },
+  "DOG": {
+    "name": "Dongola Airport",
+    "city": "Dongola",
+    "country": "SD",
+    "lat": 19.1539001465,
+    "lon": 30.4300994873
+  },
+  "RSS": {
+    "name": "Damazin Airport",
+    "city": "Ad Damazin",
+    "country": "SD",
+    "lat": 11.785900116,
+    "lon": 34.3367004395
+  },
+  "ELF": {
+    "name": "El Fasher Airport",
+    "city": "El Fasher",
+    "country": "SD",
+    "lat": 13.6148996353,
+    "lon": 25.3246002197
+  },
+  "GSU": {
+    "name": "Azaza Airport",
+    "city": "Gedaref",
+    "country": "SD",
+    "lat": 14.1330003738,
+    "lon": 35.3170013428
+  },
+  "DNX": {
+    "name": "Galegu Airport",
+    "city": "Dinder",
+    "country": "SD",
+    "lat": 12.5329999924,
+    "lon": 35.0670013428
+  },
+  "EGN": {
+    "name": "Geneina Airport",
+    "city": "Geneina",
+    "country": "SD",
+    "lat": 13.4816999435,
+    "lon": 22.4671993256
+  },
+  "HEG": {
+    "name": "Heglig Airport",
+    "city": "Heglig Oilfield",
+    "country": "SD",
+    "lat": 9.994933,
+    "lon": 29.397718
+  },
+  "KSL": {
+    "name": "Kassala Airport",
+    "city": "Kassala",
+    "country": "SD",
+    "lat": 15.3874998093,
+    "lon": 36.3288002014
+  },
+  "GBU": {
+    "name": "Khashm El Girba Airport",
+    "city": "Khashm El Girba",
+    "country": "SD",
+    "lat": 14.9250001907,
+    "lon": 35.8779983521
+  },
+  "KST": {
+    "name": "Kosti Airport",
+    "city": "Kosti",
+    "country": "SD",
+    "lat": 13.1829996109,
+    "lon": 32.733001709
+  },
+  "KDX": {
+    "name": "Kadugli Airport",
+    "city": "Kadugli",
+    "country": "SD",
+    "lat": 11.1379995346,
+    "lon": 29.7010993958
+  },
+  "RBX": {
+    "name": "Rumbek Airport",
+    "city": "Rumbek",
+    "country": "SS",
+    "lat": 6.8249998093,
+    "lon": 29.6690006256
+  },
+  "MWE": {
+    "name": "Merowe Airport",
+    "city": "Merowe",
+    "country": "SD",
+    "lat": 18.4500007629,
+    "lon": 31.8330001831
+  },
+  "NUD": {
+    "name": "En Nahud Airport",
+    "city": "En Nahud",
+    "country": "SD",
+    "lat": 12.6669998169,
+    "lon": 28.3330001831
+  },
+  "UYL": {
+    "name": "Nyala Airport",
+    "city": "Nyala",
+    "country": "SD",
+    "lat": 12.0535001755,
+    "lon": 24.956199646
+  },
+  "NHF": {
+    "name": "New Halfa Airport",
+    "city": "New Halfa",
+    "country": "SD",
+    "lat": 15.3556003571,
+    "lon": 35.7277984619
+  },
+  "EBD": {
+    "name": "El Obeid Airport",
+    "city": "Al-Ubayyid",
+    "country": "SD",
+    "lat": 13.1532001495,
+    "lon": 30.2327003479
+  },
+  "PZU": {
+    "name": "Port Sudan New International Airport",
+    "city": "Port Sudan",
+    "country": "SD",
+    "lat": 19.433599472,
+    "lon": 37.2341003418
+  },
+  "JUB": {
+    "name": "Juba Airport",
+    "city": "Juba",
+    "country": "SS",
+    "lat": 4.872010231,
+    "lon": 31.6011009216
+  },
+  "MAK": {
+    "name": "Malakal Airport",
+    "city": "Malakal",
+    "country": "SS",
+    "lat": 9.5589704514,
+    "lon": 31.6522006989
+  },
+  "KRT": {
+    "name": "Khartoum International Airport",
+    "city": "Khartoum",
+    "country": "SD",
+    "lat": 15.5895004272,
+    "lon": 32.5531997681
+  },
+  "WHF": {
+    "name": "Wadi Halfa Airport",
+    "city": "Wadi Halfa",
+    "country": "SD",
+    "lat": 21.8026981354,
+    "lon": 31.5215778351
+  },
+  "WUU": {
+    "name": "Wau Airport",
+    "city": "Wau",
+    "country": "SS",
+    "lat": 7.7258300781,
+    "lon": 27.9750003815
+  },
+  "ZLX": {
+    "name": "Zalingei Airport",
+    "city": "Zalingei",
+    "country": "SD",
+    "lat": 12.8999996185,
+    "lon": 23.4829998016
+  },
+  "ARK": {
+    "name": "Arusha Airport",
+    "city": "Arusha",
+    "country": "TZ",
+    "lat": -3.3677899837,
+    "lon": 36.6333007813
+  },
+  "BKZ": {
+    "name": "Bukoba Airport",
+    "city": "Bukoba",
+    "country": "TZ",
+    "lat": -1.332,
+    "lon": 31.8212
+  },
+  "DAR": {
+    "name": "Mwalimu Julius K. Nyerere International Airport",
+    "city": "Dar es Salaam",
+    "country": "TZ",
+    "lat": -6.8781099319,
+    "lon": 39.2025985718
+  },
+  "DOD": {
+    "name": "Dodoma Airport",
+    "city": "Dodoma",
+    "country": "TZ",
+    "lat": -6.170440197,
+    "lon": 35.7526016235
+  },
+  "IRI": {
+    "name": "Iringa Airport",
+    "city": "Nduli",
+    "country": "TZ",
+    "lat": -7.6686301231,
+    "lon": 35.7521018982
+  },
+  "TKQ": {
+    "name": "Kigoma Airport",
+    "city": "Kigoma",
+    "country": "TZ",
+    "lat": -4.8862,
+    "lon": 29.6709
+  },
+  "KIY": {
+    "name": "Kilwa Masoko Airport",
+    "city": "Kilwa Masoko",
+    "country": "TZ",
+    "lat": -8.9329996109,
+    "lon": 39.516998291
+  },
+  "JRO": {
+    "name": "Kilimanjaro International Airport",
+    "city": "Arusha",
+    "country": "TZ",
+    "lat": -3.4294099808,
+    "lon": 37.0745010376
+  },
+  "LDI": {
+    "name": "Kikwetu Airport",
+    "city": "Lindi",
+    "country": "TZ",
+    "lat": -9.8511104584,
+    "lon": 39.7578010559
+  },
+  "LKY": {
+    "name": "Lake Manyara Airport",
+    "city": "Lake Manyara National Park",
+    "country": "TZ",
+    "lat": -3.3763101101,
+    "lon": 35.8182983398
+  },
+  "MFA": {
+    "name": "Mafia Island Airport",
+    "city": "Mafia Island",
+    "country": "TZ",
+    "lat": -7.9169998169,
+    "lon": 39.6669998169
+  },
+  "MBI": {
+    "name": "Mbeya Airport",
+    "city": "Mbeya",
+    "country": "TZ",
+    "lat": -8.9169998169,
+    "lon": 33.466999054
+  },
+  "MWN": {
+    "name": "Mwadui Airport",
+    "city": "Mwadui",
+    "country": "TZ",
+    "lat": -3.5,
+    "lon": 33.6170005798
+  },
+  "XMI": {
+    "name": "Masasi Airport",
+    "city": "Masasi",
+    "country": "TZ",
+    "lat": -10.7329998016,
+    "lon": 38.766998291
+  },
+  "QSI": {
+    "name": "Moshi Airport",
+    "city": "Moshi",
+    "country": "TZ",
+    "lat": -3.3633298874,
+    "lon": 37.3269004822
+  },
+  "MYW": {
+    "name": "Mtwara Airport",
+    "city": "Mtwara",
+    "country": "TZ",
+    "lat": -10.339099884,
+    "lon": 40.1818008423
+  },
+  "MUZ": {
+    "name": "Musoma Airport",
+    "city": "Musoma",
+    "country": "TZ",
+    "lat": -1.503,
+    "lon": 33.8021
+  },
+  "MWZ": {
+    "name": "Mwanza Airport",
+    "city": "Mwanza",
+    "country": "TZ",
+    "lat": -2.4444899559,
+    "lon": 32.9327011108
+  },
+  "NCH": {
+    "name": "Nachingwea Airport",
+    "city": "Nachingwea",
+    "country": "TZ",
+    "lat": -10.3575000763,
+    "lon": 38.7792015076
+  },
+  "JOM": {
+    "name": "Njombe Airport",
+    "city": "Njombe",
+    "country": "TZ",
+    "lat": -9.3500003815,
+    "lon": 34.7999992371
+  },
+  "PMA": {
+    "name": "Pemba Airport",
+    "city": "Chake",
+    "country": "TZ",
+    "lat": -5.2572598457,
+    "lon": 39.8114013672
+  },
+  "SEU": {
+    "name": "Seronera Airport",
+    "city": "Seronera",
+    "country": "TZ",
+    "lat": -2.4580600262,
+    "lon": 34.8224983215
+  },
+  "SGX": {
+    "name": "Songea Airport",
+    "city": "Songea",
+    "country": "TZ",
+    "lat": -10.6829996109,
+    "lon": 35.5830001831
+  },
+  "SUT": {
+    "name": "Sumbawanga Airport",
+    "city": "Sumbawanga",
+    "country": "TZ",
+    "lat": -7.9670000076,
+    "lon": 31.6669998169
+  },
+  "SHY": {
+    "name": "Shinyanga Airport",
+    "city": "Shinyanga",
+    "country": "TZ",
+    "lat": -3.6093,
+    "lon": 33.5035
+  },
+  "TBO": {
+    "name": "Tabora Airport",
+    "city": "Tabora",
+    "country": "TZ",
+    "lat": -5.0763897896,
+    "lon": 32.8333015442
+  },
+  "TGT": {
+    "name": "Tanga Airport",
+    "city": "Tanga",
+    "country": "TZ",
+    "lat": -5.0923600197,
+    "lon": 39.0712013245
+  },
+  "ZNZ": {
+    "name": "Zanzibar Airport",
+    "city": "Kiembi Samaki",
+    "country": "TZ",
+    "lat": -6.2220201492,
+    "lon": 39.224899292
+  },
+  "RUA": {
+    "name": "Arua Airport",
+    "city": "Arua",
+    "country": "UG",
+    "lat": 3.0499999523,
+    "lon": 30.9169998169
+  },
+  "EBB": {
+    "name": "Entebbe International Airport",
+    "city": "Kampala",
+    "country": "UG",
+    "lat": 0.0423859991,
+    "lon": 32.4435005188
+  },
+  "ULU": {
+    "name": "Gulu Airport",
+    "city": "Gulu",
+    "country": "UG",
+    "lat": 2.805560112,
+    "lon": 32.2718009949
+  },
+  "JIN": {
+    "name": "Jinja Airport",
+    "city": "Jinja",
+    "country": "UG",
+    "lat": 0.4499999881,
+    "lon": 33.2000007629
+  },
+  "KBG": {
+    "name": "Kabalega Falls Airport",
+    "city": "Kabalega Falls",
+    "country": "UG",
+    "lat": 2.326390028,
+    "lon": 31.497800827
+  },
+  "KSE": {
+    "name": "Kasese Airport",
+    "city": "Kasese",
+    "country": "UG",
+    "lat": 0.1829999983,
+    "lon": 30.1000003815
+  },
+  "MBQ": {
+    "name": "Mbarara Airport",
+    "city": "Mbarara",
+    "country": "UG",
+    "lat": -0.5552780032,
+    "lon": 30.5993995667
+  },
+  "KCU": {
+    "name": "Masindi Airport",
+    "city": "Masindi",
+    "country": "UG",
+    "lat": 1.7580599785,
+    "lon": 31.736700058
+  },
+  "PAF": {
+    "name": "Pakuba Airport",
+    "city": "",
+    "country": "UG",
+    "lat": 2.202222,
+    "lon": 31.554444
+  },
+  "SRT": {
+    "name": "Soroti Airport",
+    "city": "Soroti",
+    "country": "UG",
+    "lat": 1.7276899815,
+    "lon": 33.6227989197
+  },
+  "TRY": {
+    "name": "Tororo Airport",
+    "city": "Tororo",
+    "country": "UG",
+    "lat": 0.6830000281,
+    "lon": 34.1669998169
+  },
+  "BAH": {
+    "name": "Bahrain International Airport",
+    "city": "Manama",
+    "country": "BH",
+    "lat": 26.2707996368,
+    "lon": 50.6335983276
+  },
+  "AHB": {
+    "name": "Abha Regional Airport",
+    "city": "Abha",
+    "country": "SA",
+    "lat": 18.2404003143,
+    "lon": 42.6566009521
+  },
+  "HOF": {
+    "name": "Al Ahsa Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 25.2852993011,
+    "lon": 49.4851989746
+  },
+  "ULH": {
+    "name": "Prince Abdul Majeed bin Abdulaziz International Airport",
+    "city": "Al-'Ula",
+    "country": "SA",
+    "lat": 26.483333,
+    "lon": 38.116944
+  },
+  "ABT": {
+    "name": "Al Baha Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 20.2961006165,
+    "lon": 41.6343002319
+  },
+  "BHH": {
+    "name": "Bisha Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 19.9843997955,
+    "lon": 42.6208992004
+  },
+  "DMM": {
+    "name": "King Fahd International Airport",
+    "city": "Ad Dammam",
+    "country": "SA",
+    "lat": 26.471200943,
+    "lon": 49.7979011536
+  },
+  "DWD": {
+    "name": "Dawadmi Domestic Airport",
+    "city": "Dawadmi",
+    "country": "SA",
+    "lat": 24.449722,
+    "lon": 44.121111
+  },
+  "DHA": {
+    "name": "King Abdulaziz Air Base",
+    "city": "",
+    "country": "SA",
+    "lat": 26.2653999329,
+    "lon": 50.1520004272
+  },
+  "GIZ": {
+    "name": "Jizan Regional Airport",
+    "city": "Jizan",
+    "country": "SA",
+    "lat": 16.9011001587,
+    "lon": 42.5858001709
+  },
+  "ELQ": {
+    "name": "Gassim Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 26.3027992249,
+    "lon": 43.7743988037
+  },
+  "URY": {
+    "name": "Guriat Domestic Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 31.4118995667,
+    "lon": 37.279499054
+  },
+  "HAS": {
+    "name": "Hail Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 27.4379005432,
+    "lon": 41.6862983704
+  },
+  "QJB": {
+    "name": "Jubail Airport",
+    "city": "Jubail",
+    "country": "SA",
+    "lat": 27.0389995575,
+    "lon": 49.4051017761
+  },
+  "JED": {
+    "name": "King Abdulaziz International Airport",
+    "city": "Jeddah",
+    "country": "SA",
+    "lat": 21.679599762,
+    "lon": 39.15650177
+  },
+  "HBT": {
+    "name": "King Khaled Military City Airport",
+    "city": "King Khaled Military City",
+    "country": "SA",
+    "lat": 27.9008998871,
+    "lon": 45.5281982422
+  },
+  "KMX": {
+    "name": "King Khaled Air Base",
+    "city": "",
+    "country": "SA",
+    "lat": 18.2973003387,
+    "lon": 42.8035011292
+  },
+  "MED": {
+    "name": "Prince Mohammad Bin Abdulaziz Airport",
+    "city": "Medina",
+    "country": "SA",
+    "lat": 24.5534000397,
+    "lon": 39.7051010132
+  },
+  "EAM": {
+    "name": "Nejran Airport",
+    "city": "Nejran",
+    "country": "SA",
+    "lat": 17.6114006042,
+    "lon": 44.4192008972
+  },
+  "AQI": {
+    "name": "Hafr Al Batin Airport",
+    "city": "Qaisumah",
+    "country": "SA",
+    "lat": 28.3351993561,
+    "lon": 46.1250991821
+  },
+  "AKH": {
+    "name": "Prince Sultan Air Base",
+    "city": "",
+    "country": "SA",
+    "lat": 24.0627002716,
+    "lon": 47.5805015564
+  },
+  "RAH": {
+    "name": "Rafha Domestic Airport",
+    "city": "Rafha",
+    "country": "SA",
+    "lat": 29.6263999939,
+    "lon": 43.4906005859
+  },
+  "RUH": {
+    "name": "King Khaled International Airport",
+    "city": "Riyadh",
+    "country": "SA",
+    "lat": 24.9575996399,
+    "lon": 46.6987991333
+  },
+  "RAE": {
+    "name": "Arar Domestic Airport",
+    "city": "Arar",
+    "country": "SA",
+    "lat": 30.9066009521,
+    "lon": 41.1381988525
+  },
+  "RSI": {
+    "name": "Red Sea International Airport",
+    "city": "Hanak",
+    "country": "SA",
+    "lat": 25.628067114969124,
+    "lon": 37.088822323268644
+  },
+  "XXN": {
+    "name": "Riyadh Air Base",
+    "city": "Riyadh",
+    "country": "SA",
+    "lat": 24.7098007202,
+    "lon": 46.7252006531
+  },
+  "SHW": {
+    "name": "Sharurah Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 17.4668998718,
+    "lon": 47.1213989258
+  },
+  "AJF": {
+    "name": "Al-Jawf Domestic Airport",
+    "city": "Al-Jawf",
+    "country": "SA",
+    "lat": 29.7851009369,
+    "lon": 40.0999984741
+  },
+  "SLF": {
+    "name": "Sulayel Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 20.4647006989,
+    "lon": 45.6195983887
+  },
+  "TUU": {
+    "name": "Tabuk Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 28.3654003143,
+    "lon": 36.6189002991
+  },
+  "TIF": {
+    "name": "Taif Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 21.4834003448,
+    "lon": 40.5443000793
+  },
+  "TUI": {
+    "name": "Turaif Domestic Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 31.6926994324,
+    "lon": 38.7312011719
+  },
+  "WAE": {
+    "name": "Wadi Al Dawasir Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 20.5042991638,
+    "lon": 45.1996002197
+  },
+  "EJH": {
+    "name": "Al Wajh Domestic Airport",
+    "city": "Al Wajh",
+    "country": "SA",
+    "lat": 26.198600769,
+    "lon": 36.476398468
+  },
+  "YNB": {
+    "name": "Yenbo Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 24.1441993713,
+    "lon": 38.0634002686
+  },
+  "ZUL": {
+    "name": "Zilfi Airport",
+    "city": "Zilfi",
+    "country": "SA",
+    "lat": 26.3500003815,
+    "lon": 44.8330001831
+  },
+  "XIJ": {
+    "name": "Ahmed Al Jaber Air Base",
+    "city": "Ahmed Al Jaber AB",
+    "country": "KW",
+    "lat": 28.9347991943,
+    "lon": 47.7919006348
+  },
+  "KWI": {
+    "name": "Kuwait International Airport",
+    "city": "Kuwait City",
+    "country": "KW",
+    "lat": 29.226600647,
+    "lon": 47.9688987732
+  },
+  "AUH": {
+    "name": "Abu Dhabi International Airport",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "lat": 24.4330005646,
+    "lon": 54.6511001587
+  },
+  "AZI": {
+    "name": "Al Bateen Executive Airport",
+    "city": "",
+    "country": "AE",
+    "lat": 24.4283008575,
+    "lon": 54.4580993652
+  },
+  "AAN": {
+    "name": "Al Ain International Airport",
+    "city": "Al Ain",
+    "country": "AE",
+    "lat": 24.2616996765,
+    "lon": 55.6091995239
+  },
+  "DHF": {
+    "name": "Al Dhafra Air Base",
+    "city": "",
+    "country": "AE",
+    "lat": 24.2481994629,
+    "lon": 54.5476989746
+  },
+  "XSB": {
+    "name": "Sir Bani Yas Airport",
+    "city": "Sir Bani Yas",
+    "country": "AE",
+    "lat": 24.282196,
+    "lon": 52.582068
+  },
+  "DXB": {
+    "name": "Dubai International Airport",
+    "city": "Dubai",
+    "country": "AE",
+    "lat": 25.2527999878,
+    "lon": 55.3643989563
+  },
+  "NHD": {
+    "name": "Al Minhad Air Base",
+    "city": "Dubai",
+    "country": "AE",
+    "lat": 25.0268001556,
+    "lon": 55.3661994934
+  },
+  "DWC": {
+    "name": "Al Maktoum International Airport",
+    "city": "Jebel Ali",
+    "country": "AE",
+    "lat": 24.8966666667,
+    "lon": 55.1613888889
+  },
+  "FJR": {
+    "name": "Fujairah International Airport",
+    "city": "",
+    "country": "AE",
+    "lat": 25.1121997833,
+    "lon": 56.3240013123
+  },
+  "RKT": {
+    "name": "Ras Al Khaimah International Airport",
+    "city": "Ras Al Khaimah",
+    "country": "AE",
+    "lat": 25.6135005951,
+    "lon": 55.9388008118
+  },
+  "SHJ": {
+    "name": "Sharjah International Airport",
+    "city": "Sharjah",
+    "country": "AE",
+    "lat": 25.3285999298,
+    "lon": 55.51720047
+  },
+  "AOM": {
+    "name": "Adam Airport",
+    "city": "Adam",
+    "country": "OM",
+    "lat": 22.493056,
+    "lon": 57.381944
+  },
+  "RMB": {
+    "name": "Buraimi Airport",
+    "city": "Buraimi",
+    "country": "OM",
+    "lat": 24.2329998016,
+    "lon": 55.783000946
+  },
+  "DQM": {
+    "name": "Duqm International Airport",
+    "city": "Duqm",
+    "country": "OM",
+    "lat": 19.5019,
+    "lon": 57.6342
+  },
+  "FAU": {
+    "name": "Fahud Airport",
+    "city": "Fahud",
+    "country": "OM",
+    "lat": 22.354759318,
+    "lon": 56.4841461182
+  },
+  "RNM": {
+    "name": "Qarn Alam Airport",
+    "city": "Ghaba",
+    "country": "OM",
+    "lat": 21.3829994202,
+    "lon": 57.0499992371
+  },
+  "KHS": {
+    "name": "Khasab Air Base",
+    "city": "Khasab",
+    "country": "OM",
+    "lat": 26.170999527,
+    "lon": 56.2406005859
+  },
+  "LKW": {
+    "name": "Lekhwair Airport",
+    "city": "",
+    "country": "OM",
+    "lat": 22.8049846844,
+    "lon": 55.3733682632
+  },
+  "MSH": {
+    "name": "Masirah Air Base",
+    "city": "Masirah",
+    "country": "OM",
+    "lat": 20.6753997803,
+    "lon": 58.890499115
+  },
+  "MCT": {
+    "name": "Muscat International Airport",
+    "city": "Muscat",
+    "country": "OM",
+    "lat": 23.5932998657,
+    "lon": 58.2844009399
+  },
+  "OMM": {
+    "name": "Marmul Airport",
+    "city": "Marmul",
+    "country": "OM",
+    "lat": 18.1359996796,
+    "lon": 55.1820983887
+  },
+  "MNH": {
+    "name": "Rustaq Airport",
+    "city": "Al Muladdah",
+    "country": "OM",
+    "lat": 23.6405555556,
+    "lon": 57.4875
+  },
+  "SLL": {
+    "name": "Salalah Airport",
+    "city": "Salalah",
+    "country": "OM",
+    "lat": 17.0387001038,
+    "lon": 54.0913009644
+  },
+  "OHS": {
+    "name": "Sohar Airport",
+    "city": "Sohar",
+    "country": "OM",
+    "lat": 24.4641666667,
+    "lon": 56.6283333333
+  },
+  "SUH": {
+    "name": "Sur Airport",
+    "city": "Sur",
+    "country": "OM",
+    "lat": 22.533000946,
+    "lon": 59.483001709
+  },
+  "TTH": {
+    "name": "Thumrait Air Base",
+    "city": "Thumrait",
+    "country": "OM",
+    "lat": 17.6660003662,
+    "lon": 54.0246009827
+  },
+  "DIA": {
+    "name": "Doha International Airport",
+    "city": "Doha",
+    "country": "QA",
+    "lat": 25.261100769,
+    "lon": 51.5651016235
+  },
+  "IUD": {
+    "name": "Al Udeid Air Base",
+    "city": "Ar Rayyan",
+    "country": "QA",
+    "lat": 25.1173000336,
+    "lon": 51.3149986267
+  },
+  "DOH": {
+    "name": "Hamad International Airport",
+    "city": "Doha",
+    "country": "QA",
+    "lat": 25.2605946,
+    "lon": 51.6137665
+  },
+  "ADE": {
+    "name": "Aden International Airport",
+    "city": "Aden",
+    "country": "YE",
+    "lat": 12.8295001984,
+    "lon": 45.0288009644
+  },
+  "EAB": {
+    "name": "Abs Airport",
+    "city": "Abs",
+    "country": "YE",
+    "lat": 16.011111,
+    "lon": 43.177778
+  },
+  "AXK": {
+    "name": "Ataq Airport",
+    "city": "",
+    "country": "YE",
+    "lat": 14.5513000488,
+    "lon": 46.8261985779
+  },
+  "BYD": {
+    "name": "Al-Bayda Airport",
+    "city": "Al-Bayda",
+    "country": "YE",
+    "lat": 13.9670000076,
+    "lon": 45.5830001831
+  },
+  "BHN": {
+    "name": "Beihan Airport",
+    "city": "",
+    "country": "YE",
+    "lat": 14.781999588,
+    "lon": 45.7201004028
+  },
+  "AAY": {
+    "name": "Al Ghaidah International Airport",
+    "city": "",
+    "country": "YE",
+    "lat": 16.1916999817,
+    "lon": 52.1749992371
+  },
+  "HOD": {
+    "name": "Hodeidah International Airport",
+    "city": "Hodeida",
+    "country": "YE",
+    "lat": 14.7530002594,
+    "lon": 42.9762992859
+  },
+  "MYN": {
+    "name": "Mareb Airport",
+    "city": "Mareb",
+    "country": "YE",
+    "lat": 15.4692001343,
+    "lon": 45.3269004822
+  },
+  "IHN": {
+    "name": "Qishn Airport",
+    "city": "Qishn",
+    "country": "YE",
+    "lat": 15.4169998169,
+    "lon": 51.6829986572
+  },
+  "RIY": {
+    "name": "Mukalla International Airport",
+    "city": "Riyan",
+    "country": "YE",
+    "lat": 14.6625995636,
+    "lon": 49.375
+  },
+  "SYE": {
+    "name": "Sadah Airport",
+    "city": "Sadah",
+    "country": "YE",
+    "lat": 16.966999054,
+    "lon": 43.733001709
+  },
+  "SAH": {
+    "name": "Sana'a International Airport",
+    "city": "Sana'a",
+    "country": "YE",
+    "lat": 15.4763002396,
+    "lon": 44.2196998596
+  },
+  "SCT": {
+    "name": "Socotra International Airport",
+    "city": "Socotra Islands",
+    "country": "YE",
+    "lat": 12.6307001114,
+    "lon": 53.9057998657
+  },
+  "GXF": {
+    "name": "Sayun International Airport",
+    "city": "Sayun",
+    "country": "YE",
+    "lat": 15.9660997391,
+    "lon": 48.7882995605
+  },
+  "TAI": {
+    "name": "Ta'izz International Airport",
+    "city": "Ta'izz",
+    "country": "YE",
+    "lat": 13.6859998703,
+    "lon": 44.1390991211
+  }
+}
