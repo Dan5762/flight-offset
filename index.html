@@ -1,7 +1,7 @@
 
 <!-- index.html -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,17 +50,66 @@
         {
           "@type": "HowToStep",
           "name": "Calculate Flight Emissions",
-          "text": "Use Google Flights to determine your flight's CO2 equivalent emissions"
+          "text": "Use our flight carbon calculator to determine your flight's CO2 equivalent emissions"
         },
         {
           "@type": "HowToStep",
           "name": "Choose Carbon Offset Program",
-          "text": "Select a reputable carbon offsetting or removal scheme"
+          "text": "Select a reputable carbon offsetting or removal scheme like Frontier Climate"
         },
         {
           "@type": "HowToStep",
           "name": "Calculate Offset Payment",
-          "text": "Determine the appropriate payment amount to offset your emissions"
+          "text": "Determine the appropriate payment amount to offset your emissions using our spreadsheet tool"
+        }
+      ]
+    }
+    </script>
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I calculate my flight's carbon emissions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use our flight emissions calculator by entering your departure and arrival airports, trip type, and cabin class. The calculator uses UK Government GHG Conversion Factors and ICAO methodology to provide accurate CO2e emissions data."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is carbon offsetting for flights?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Carbon offsetting for flights involves calculating the CO2 emissions from your air travel and investing in projects that remove or reduce an equivalent amount of carbon from the atmosphere, effectively neutralizing your flight's environmental impact."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which carbon offset programs are most reputable?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frontier Climate is a recommended carbon removal scheme that invests in innovative carbon removal technologies. Always look for programs with verified carbon credits and transparent reporting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much should I pay to offset my flight emissions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The amount depends on your flight distance, cabin class, and the carbon offset program's pricing. Use our spreadsheet tool to calculate the appropriate payment based on current carbon pricing and your specific flight details."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does cabin class affect flight emissions?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, cabin class significantly affects your carbon footprint. Business and first-class seats take up more space and weight, resulting in higher per-passenger emissions compared to economy class."
+          }
         }
       ]
     }
@@ -80,20 +129,14 @@
   </head>
   <body>
     <header>
-      <h1>Carbon Offsetting Flights</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Offsetting Guide</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
+      <h1>Flight Offsetting</h1>
     </header>
     <main>
       <section>
-        <h2>Step 1: Calculate Your Flight's CO2 Emissions</h2>
+        <h2>Step 1: Calculate Your Flight's CO2 Emissions with Our Flight Carbon Calculator</h2>
         <div class="calculator-options">
           <div id="manual-entry" class="calc-method">
-            <h3>Calculate emissions by route</h3>
+            <h3>Flight Emissions Calculator - Enter Your Route Details</h3>
             <div class="form-group">
               <label for="departure">Departure Airport (Code or City):</label>
               <input type="text" id="departure" placeholder="e.g., JFK or New York">
@@ -132,12 +175,16 @@
         </div>
       </section>
       <section>
-        <h2>Step 2:</h2>
+        <h2>Step 2: Choose a Reputable Carbon Offset Program</h2>
         <p>Find a carbon offsetting/removal scheme to make a payment towards. A personal favourite site is <a href="https://frontierclimate.com/portfolio">Frontier Climate</a>, if you know of other reputable schemes please contact me <a href="./contact.html">here</a>.</p>
       </section>
       <section>
-        <h2>Step 3:</h2>
+        <h2>Step 3: Calculate Your Carbon Offset Payment Amount</h2>
         <p>Decide on how much you should pay towards a carbon offsetting/removal to reduce your net emissions. To this you can use this <a href="https://docs.google.com/spreadsheets/d/1EYwDGIbl20xWyNPDbwnK8FjHsNY6kDoKTaZEvI7QUhc/template/preview">spreadsheet</a>.</p>
+      </section>
+      <section>
+        <h2>About This Site</h2>
+        <p>This site was put together by me, <a href="https://daniellong.co">Daniel Long</a>. I hope you find it useful and can ease some of your carbon guilt in a substantive way too. Please contact me if you want to get involved or have ideas for improving flight carbon offsetting.</p>
       </section>
     </main>
     <script src="js/flight-calculator.js"></script>
